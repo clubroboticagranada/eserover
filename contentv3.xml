@@ -3,7 +3,7 @@
 <instance xmlns="http://www.exelearning.org/content/v0.3" reference="2" version="0.3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://www.exelearning.org/content/v0.3 content.xsd" class="exe.engine.package.Package">
  <dictionary>
   <string role="key" value="_title"></string>
-  <unicode value="ESROVER Moon Camp"></unicode>
+  <unicode value="ESEROVER Moon Camp"></unicode>
   <string role="key" value="idevices"></string>
   <list></list>
   <string role="key" value="_addAccessibilityToolbar"></string>
@@ -12950,7 +12950,7 @@
            <string role="key" value="language"></string>
            <string value="es"></string>
            <string role="key" value="valueOf_"></string>
-           <string value="ESROVER Moon Camp"></string>
+           <string value="ESEROVER Moon Camp"></string>
           </dictionary>
          </instance>
         </list>
@@ -13511,7 +13511,7 @@
            <string role="key" value="language"></string>
            <string value="es"></string>
            <string role="key" value="valueOf_"></string>
-           <string value="ESROVER Moon Camp"></string>
+           <string value="ESEROVER Moon Camp"></string>
           </dictionary>
          </instance>
         </list>
