@@ -23,7 +23,7 @@
 <nav id="siteNav">
 <ul>
    <li><a href="index.html" class="daddy main-node">ESEROVER</a></li>
-   <li><a href="objetivos_del_proyecto.html" class="no-ch">OBJETIVOS DEL PROYECTO</a></li>
+   <li><a href="objetivos.html" class="no-ch">Objetivos</a></li>
    <li><a href="eserover_diy.html" class="daddy">ESEROVER DIY</a>
    <ul class="other-section">
       <li><a href="hardware.html" class="daddy">Hardware</a>
@@ -55,22 +55,14 @@
    </li>
    <li><a href="eserover_cutebot.html" class="daddy">ESEROVER Cutebot</a>
    <ul class="other-section">
-      <li><a href="estructura_cutebot.html" class="daddy">Estructura Cutebot</a>
-      <ul class="other-section">
-         <li><a href="stl_cutebot.html" class="no-ch">STL Cutebot</a></li>
-      </ul>
-      </li>
+      <li><a href="estructura_cutebot.html" class="no-ch">Estructura Cutebot</a></li>
       <li><a href="librera_cutebot.html" class="no-ch">Librería Cutebot</a></li>
       <li><a href="software_cutebot.html" class="no-ch">Software CuteBot</a></li>
    </ul>
    </li>
    <li><a href="eserover_maqueen.html" class="daddy">ESEROVER Maqueen</a>
    <ul class="other-section">
-      <li><a href="estructura_maqueen.html" class="daddy">Estructura Maqueen</a>
-      <ul class="other-section">
-         <li><a href="stl_maqueen.html" class="no-ch">STL Maqueen</a></li>
-      </ul>
-      </li>
+      <li><a href="estructura_maqueen.html" class="no-ch">Estructura Maqueen</a></li>
       <li><a href="librera_maqueen.html" class="no-ch">Librería Maqueen</a></li>
       <li><a href="software_maqueen.html" class="no-ch">Software Maqueen</a></li>
    </ul>
@@ -90,9 +82,9 @@
       </li>
    </ul>
    </li>
-   <li><a href="actividades_en_el_aula.html" class="no-ch">ACTIVIDADES EN EL AULA</a></li>
-   <li><a href="evaluacin_del_proyecto.html" class="no-ch">EVALUACIÓN DEL PROYECTO</a></li>
-   <li><a href="crditos0.html" class="no-ch">CRÉDITOS</a></li>
+   <li><a href="actividades.html" class="no-ch">Actividades</a></li>
+   <li><a href="evaluacin.html" class="no-ch">Evaluación</a></li>
+   <li><a href="crditos0.html" class="no-ch">Créditos</a></li>
 </ul>
 </nav>
 <div id='topPagination'>
@@ -116,7 +108,7 @@
 <div class="iDevice_inner">
 <div class="iDevice_content_wrapper">
 <div id="ta230_130_2" class="block iDevice_content">
-<div class="exe-text"><p>Las dos aplicaciones que hemos encontrado de cierta calidad son estas, y no pueden configurar usuario y contraseña, por tanto no conectarán con un servidor mosquitto con autenticación.</p>
+<div class="exe-text"><p>Las dos aplicaciones que hemos encontrado de cierta calidad son estas.</p>
 <ul>
 <li><a href="https://play.google.com/store/search?q=iot+mqtt+panel&amp;c=apps&amp;hl=es" target="_blank" rel="noopener">IoT MQTT Panel</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=net.routix.mqttdash&amp;hl=es" target="_blank" rel="noopener">MQTT Dash</a></li>
@@ -141,7 +133,7 @@
 </tr>
 </tbody>
 </table>
-<p>Para conseguir este panel debemos abrir el fichero del programa en python (.py) y abrirlo en el editor de python <a href="https://thonny.org/" target="_blank" rel="noopener">Thonny</a>, una vez abierto el fichero en Thonny debemos instalar las librerías paho-mqtt y matplotlib y ejecutar el programa.</p>
+<p>Para conseguir este panel debemos abrir el fichero del programa en python (.py) y abrirlo en el editor de python <a href="https://thonny.org/" target="_blank" rel="noopener">Thonny</a>, una vez abierto el fichero en Thonny debemos cambiar la ip del broker (servidor), instalar las librerías paho-mqtt y matplotlib, y ejecutar el programa.</p>
 <p><img src="dashboard_python.gif" alt="dashboardpython" title="dashboardpython" width="800" height="450" /></p>
 <p></p></div>
 </div>
@@ -171,8 +163,7 @@
 <div class="exe-text"><p>También podemos realizar páginas webs en forma de paneles o dashborads para mandar topics y valores o para recibir topics y valores del robot. En concreto esta ha sido realizada a través de Chat GPT usando el siguiente prompt, y algunas mejoras posteriores:</p>
 <p><cite>Quiero hacer un entorno web que controle un robot a través de mqtt con un servidor mosquitto alojado en la ip pública xxx.xxx.xxx.xxx, el servidor necesita autenticación con usuarios. En la web debe aparecer cuatro botones para publicar topics de movimiento del robot: botón adelante con topic movimiento valor adelante, botón atras con topic movimiento valor atras, botón derecha con topic movimiento valor derecha, botón izquierda con topic movimiento valor izquierda. Además deben representarse en tiempo real las gráficas de los sensores a la que la web está suscrito, en un sólo interfaz de gráficas. Los topics de las gráficas son: luz (topic sensores/luz), sonido (topic sensores/sonido), temperatura (topic sensores/temperatura), humedad (topic sensores/humedad) y distancia (topic sensores/distancia). Además debe tener un botón para guardado de datos en formato csv, y alguna animación que indique que está grabando datos.</cite></p>
 <p><cite><img src="dashboard03.png" alt="dashboard03" title="dashboard03" width="800" height="541" /></cite></p>
-<p></p>
-<p></p></div>
+<p>Es necesario en el fichero html cambiar la ip por la del broker (servidor mqtt). Esta IP puede ser local o pública.</p></div>
 </div>
 </div>
 </div>
@@ -180,7 +171,7 @@
 </article>
 <article class="iDevice_wrapper FileAttachIdeviceInc em_iDevice em_iDevice_assignment" id="id234">
 <div class="iDevice emphasis1" >
-<header class="iDevice_header" style="background-image:url(icon_assignment.png)"><h1 class="iDeviceTitle">panel de control en thml</h1></header>
+<header class="iDevice_header" style="background-image:url(icon_assignment.png)"><h1 class="iDeviceTitle">panel de control en html</h1></header>
 <div class="iDevice_inner">
 <div class="iDevice_content_wrapper">
 <div id="ta234_82" class="block iDevice_content">
