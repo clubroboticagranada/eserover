@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="es" id="exe-node-20251214204722PZUSSR">
+<head>
+<meta charset="utf-8">
+<meta name="generator" content="eXeLearning v3.0.1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-sa/4.0/">
+<title>Servidor MQTT | Moon Camp</title>
+<script>document.querySelector("html").classList.add("js");</script><script src="../libs/jquery/jquery.min.js"> </script><script src="../libs/common_i18n.js"> </script><script src="../libs/common.js"> </script><script src="../libs/exe_export.js"> </script><script src="../libs/bootstrap/bootstrap.bundle.min.js"> </script><link rel="stylesheet" href="../libs/bootstrap/bootstrap.min.css">
+<script src="../idevices/text/text.js"> </script><link rel="stylesheet" href="../idevices/text/text.css">
+<link rel="stylesheet" href="../content/css/base.css">
+<script src="../theme/style.js"> </script><link rel="stylesheet" href="../theme/style.css">
+<link rel="icon" type="image/x-icon" href="../libs/favicon.ico">
+</head>
+<body class="exe-export exe-web-site" lang="es">
+<script>document.body.className+=" js"</script><div class="exe-content exe-export pre-js siteNav-hidden"> <nav id="siteNav"> <ul> <li> <a href="../index.html" class="main-node no-ch">ESEROVER</a>
+</li>
+<li> <a href="../html/objetivos-del-proyecto.html" class="no-ch">OBJETIVOS DEL PROYECTO</a>
+</li>
+<li> <a href="../html/eserover-cutebot.html" class="daddy">ESEROVER Cutebot</a><ul class="other-section"> <li> <a href="../html/estructura-cutebot.html" class="daddy">Estructura Cutebot</a><ul class="other-section"> <li> <a href="../html/stl-cutebot.html" class="no-ch">STL Cutebot</a>
+</li>
+</ul>
+</li>
+<li> <a href="../html/biblioteca-cutebot.html" class="no-ch">Biblioteca Cutebot</a>
+</li>
+<li> <a href="../html/retos-cutebot-marte.html" class="daddy">Retos Cutebot Marte</a><ul class="other-section"> <li> <a href="../html/desplazamiento-sobre-planeta.html" class="no-ch">Desplazamiento sobre planeta</a>
+</li>
+<li> <a href="../html/parada-en-blanco.html" class="no-ch">Parada en blanco</a>
+</li>
+<li> <a href="../html/robot-magico.html" class="no-ch">Robot Mágico</a>
+</li>
+<li> <a href="../html/esquiva-rocas.html" class="no-ch">Esquiva Rocas</a>
+</li>
+<li> <a href="../html/encerrado.html" class="no-ch">Encerrado</a>
+</li>
+<li> <a href="../html/siguelineas.html" class="no-ch">Siguelineas</a>
+</li>
+<li> <a href="../html/control-remoto.html" class="no-ch">Control remoto</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="current-page-parent"> <a href="../html/eserover-iot-cutebot.html" class="daddy">ESEROVER IoT (Cutebot)</a><ul> <li class="current-page-parent"> <a href="../html/iot-y-microblocks.html" class="daddy">IoT y microblocks</a><ul> <li class="active"> <a href="../html/servidor-mqtt.html" class="active daddy">Servidor MQTT</a><ul> <li> <a href="../html/placa-iot.html" class="no-ch">Placa IoT</a>
+</li>
+<li> <a href="../html/paneles-o-dashboards.html" class="no-ch">Paneles o dashboards</a>
+</li>
+</ul>
+</li>
+<li> <a href="../html/control-wifi.html" class="no-ch">Control wifi</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li> <a href="../html/actividades-en-el-aula.html" class="no-ch">ACTIVIDADES EN EL AULA</a>
+</li>
+<li> <a href="../html/evaluaci%C3%93n-del-proyecto.html" class="no-ch">EVALUACIÓN DEL PROYECTO</a>
+</li>
+<li> <a href="../html/cr%C3%89ditos.html" class="no-ch">CRÉDITOS</a>
+</li>
+</ul></nav><main id="20251214204722PZUSSR" class="page"> <header id="header-20251214204722PZUSSR" class="main-header"> <div class="package-header"><h1 class="package-title">Moon Camp</h1></div>
+<div class="page-header"><h2 class="page-title">Servidor MQTT</h2></div></header><div id="page-content-20251214204722PZUSSR" class="page-content"> <article id="20251214204722MLKWXB" class="box"> <header class="box-head no-icon"> <h1 class="box-title">MQTT</h1>
+<button class="box-toggle box-toggle-on" title="Ocultar/Mostrar contenido"> <span>Ocultar/Mostrar contenido</span></button></header><div class="box-content"> <div id="20251204113734SBRCCP" class="idevice_node text" data-idevice-path="../idevices/text/" data-idevice-type="text" data-idevice-component-type="json"><div class="exe-text"><p>MQTT (Message Queuing Telemetry Transport) es un protocolo de comunicación que permite que los dispositivos hablen entre sí de forma ligera y rápida, ideal para el Internet de las Cosas (IoT). Las comunicaciones funcionan entre dispositivos funcionan mediante publicaciones de mensajes con temática y valores y subscriciones a los mismos de otros dispositivos que lo reciben y procesan.</p>
+<p><a href="https://www.luisllamas.es/que-es-mqtt-su-importancia-como-protocolo-iot/" target="_blank" rel="noopener">¿Que es mqtt?</a>: por Luis llamas</p></div></div>
+</div></article><article id="20251214204722DEZLLL" class="box"> <header class="box-head no-icon"> <h1 class="box-title">Servidor o broker MQTT</h1>
+<button class="box-toggle box-toggle-on" title="Ocultar/Mostrar contenido"> <span>Ocultar/Mostrar contenido</span></button></header><div class="box-content"> <div id="20251204113734ULCSOF" class="idevice_node text" data-idevice-path="../idevices/text/" data-idevice-type="text" data-idevice-component-type="json"><div class="exe-text"><p>El servidor de mqtt lo vamos a instalar en una raspberry pi, en concreto se llama mosquitto, lo he realizado siguiendo minuciosamente los pasos explicados en la web de Luis Llamas. <a href="https://www.luisllamas.es/como-instalar-mosquitto-el-broker-mqtt/" target="_blank" rel="noopener">https://www.luisllamas.es/como-instalar-mosquitto-el-broker-mqtt/.</a> </p>
+<p><span style="font-size: 14pt;"><strong>Instalación de Mosquitto</strong></span></p>
+<p>Para ello en un terminal de raspberry os:</p>
+<p><code>sudo apt update</code><br /><code>sudo apt upgrade</code></p>
+<p>Con estás órdenes actualizamos la base de datos de paquetería.</p>
+<p><code>sudo apt install mosquitto mosquitto-clients</code></p>
+<p>Ahora instalamos el servidor y las herramientas de cliente.</p>
+<p><code></code></p>
+<p>Para verificar el estado del servidor puedes usar la siguiente orden;</p>
+<p><code>sudo systemctl status mosquitto</code></p>
+<p><span style="font-size: 14pt;"><strong>Configuración del servidor</strong></span></p>
+<p>Además hay que modificar el archivo de configuración de mosquitto, en mi caso con el editor de texto nano:</p>
+<p><img src="../content/resources/20251204113734ULCSOF/mosquitto_01.png" alt="configuración de mosquitto 01" title="configuración de mosquitto 01" width="660" height="197" /></p>
+<p>Al mismo añadimos las líneas:</p>
+<p><code><em>listener 1883</em></code></p>
+<p><code><em>allow_anonymous true</em></code></p>
+<p><img src="../content/resources/20251204113734ULCSOF/mosquitto_02.png" alt="configuración mosquitto 02" title="configuración mosquitto 02" width="659" height="469" /></p>
+<p>Esto permite al servidor atender al puerto 1883 (el de mqtt) y permitir el uso del mismo a usuarios anónimos.</p>
+<p><span style="font-size: 14pt;"><strong>Configuración de <em>mosquitto</em> para autenticación</strong></span></p>
+<p>También podemos añadir al servidor usuarios y contraseñas, e incluso no permitir el uso a usuarios anónimos (sin identificación).</p>
+<p>En la web de <a href="https://blog.espol.edu.ec/girni/mqtt-mosquitto-usuario-y-contrasena/" target="_blank" rel="noopener">GIRNI</a> lo explican con detalle.</p>
+<p>Debemos añadir en el fichero de configuración <em>mosquitto.conf </em>:</p>
+<p><code>allow_anonymous false</code><br /><code>password_file /etc/mosquitto/passwd</code></p>
+<p>y comentar para que no tenga efecto la línea:</p>
+<p><code>#allow_anonymous true</code></p>
+<p>La primera línea no permite usuarios anónimos y las segunda indica dónde está el fichero de usuarios y contraseñas cifradas.</p>
+<p>El fichero de configuración quedaría de la siguiente manera:</p>
+<p><img src="../content/resources/20251204113734ULCSOF/mosquitto_03.png" alt="mosquitto.conf" title="mosquitto.conf" width="660" height="476" /><code></code></p>
+<p>También hemos añadido las líneas:</p>
+<p><code>listener 9001</code></p>
+<p><code>protocol websockets</code></p>
+<p>La primera hace que el servidor pueda escuchar peticiones por el puerto 9001 y la segunda habilita el protocolo websockets, este protocolo con su puerto (9001) permiten que páginas webs se puedan comunicar con servidores mqtt. En el router habrá que abrir el puerto 9001 y redireccionarlo a la ip local de la raspberry pi.</p>
+<p><strong>Para añadir el fichero de usuarios y contraseñas y el primer usuario:</strong></p>
+<p><em><code>sudo mosquitto_passwd -c /etc/mosquitto/passwd usuario</code></em></p>
+<p>con la opción -c crea el fichero y borra el anterior si lo hubiese.</p>
+<p>para la creación los demas usuarios sin la opción -c:</p>
+<p><code><em>sudo mosquitto_passwd /etc/mosquitto/passwd nuevousuario</em></code></p>
+<p>Para comprobar los usuarios del servidor mosquitto usamos:</p>
+<p><code><em>cut -d: -f1 /etc/mosquitto/passwd</em></code></p></div></div>
+</div></article><article id="20251214204722MBXJOA" class="box"> <header class="box-head no-icon"> <h1 class="box-title">Router</h1>
+<button class="box-toggle box-toggle-on" title="Ocultar/Mostrar contenido"> <span>Ocultar/Mostrar contenido</span></button></header><div class="box-content"> <div id="20251204113734HPRINT" class="idevice_node text" data-idevice-path="../idevices/text/" data-idevice-type="text" data-idevice-component-type="json"><div class="exe-text"><p>En el enrutador lo primero que debemos hacer es abrir las características de mi dispositivo en la red.</p>
+<p><img src="../content/resources/20251204113734HPRINT/router01.png" alt="router 01" title="router 01" width="599" height="386" /></p>
+<p>Ahora debemos reservar una ip local para el dispositivo.</p>
+<p><img src="../content/resources/20251204113734HPRINT/router02.png" alt="router 02" title="router 02" width="601" height="372" /></p>
+<p>Posteriormente haremos una redirección del trafico mqtt al puerto 1883 del router a la ip local del servidor. Está opción está en port forwarding.</p>
+<p><img src="../content/resources/20251204113734HPRINT/router03.png" alt="router 03" title="router 03" width="600" height="538" /></p>
+<p>Además si queremos trabajar desde webs sobre el servidor debemos abrir el puerto 9001 y redireccionarlo a la ip local del servidor (raspberry pi). De esta forma estamos haciendo posible la conexión mediante el protocolo websockets de páginas webs y el servidor mqtt.</p>
+<p><img src="../content/resources/20251204113734HPRINT/router04.png" alt="router04" title="router04" width="600" height="566" /></p>
+<p></p>
+<p></p>
+<p></p></div></div>
+</div></article>
+</div></main><div class="nav-buttons"> <a href="../html/iot-y-microblocks.html" title="Anterior" class="nav-button nav-button-left"> <span>Anterior</span></a><a href="../html/placa-iot.html" title="Siguiente" class="nav-button nav-button-right"> <span>Siguiente</span></a>
+</div>
+<footer id="siteFooter"><div id="siteFooterContent"> <div id="packageLicense" class="cc cc-by-sa"> <p> <span class="license-label">Licencia: </span><a href="https://creativecommons.org/licenses/by-sa/4.0/" class="license">creative commons: attribution - share alike 4.0</a></p>
+</div>
+</div></footer>
+</div>
+<p id="made-with-eXe"> <a href="https://exelearning.net/" target="_blank" rel="noopener"> <span>Creado con eXeLearning <span>(nueva ventana)</span></span></a></p>
+</body>
+</html>
