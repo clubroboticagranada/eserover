@@ -7,7 +7,7 @@ script 317 40 {
 whenStarted
 forever {
   if (cutebot_seesLine true true) {
-    adelante 'adelante' '3'
+    cutebot_setWheelSpeed 25 25
   } (cutebot_seesLine true false) {
     adelante 'izquierda' '4'
   } (cutebot_seesLine false true) {
@@ -16,18 +16,6 @@ forever {
     cutebot_stopWheels
   }
 }
-}
-
-script 452 466 {
-cutebot_setWheelSpeed 30 30
-}
-
-script 457 535 {
-cutebot_setWheelSpeed 0 60
-}
-
-script 480 612 {
-cutebot_setWheelSpeed 60 0
 }
 
 
@@ -782,12 +770,12 @@ author 'Joan Guillén'
 version 1 8 
 depends Tone Color 
 tags keyestudio steam 
-choices ms_energyMeter 'ms;start' 'ms;stop' 'ms;reset' 
+choices ms_led_imageMenu heart 'small heart' yes no happy sad confused angry asleep surprised silly fabulous meh 't-shirt' 'roller skate' duck house tortoise butterfly 'stick figure' ghost sword giraffe skull umbrella snake rabbit cow 'quarter note' 'eight note' pitchfork target triangle 'left triangle' 'chess board' diamond 'small diamond' square 'small square' scissors 
 choices ms_inclination 'ms;down' x y 
 choices ms_accel x y z 
 choices ms_energy mA mV mW 
 choices ms_touchPin '0' '1' '2' '4' '6' '8' '12' 
-choices ms_led_imageMenu heart 'small heart' yes no happy sad confused angry asleep surprised silly fabulous meh 't-shirt' 'roller skate' duck house tortoise butterfly 'stick figure' ghost sword giraffe skull umbrella snake rabbit cow 'quarter note' 'eight note' pitchfork target triangle 'left triangle' 'chess board' diamond 'small diamond' square 'small square' scissors 
+choices ms_energyMeter 'ms;start' 'ms;stop' 'ms;reset' 
 description 'Provides custom blocks for the micro:STEAMakers, an ESP32 board with WiFi, BLE, 5x5 RGB LED matrix, 2 buttons, touch, light, sound, temperature and humidity sensors, six-axis accelerometer/gyroscope, energy control, and GPIO and I2C pins for additional extensions.
 '
 variables _ms_neoPixels _ms_neoPixels_scale _ms_scrolling_stopped _ms_energyReading _ms_energySum _ms_aht20_on _ms_aht20_reading _ms_aht20_data _ms_MPU6050_on _ms_MPU6050_add 
