@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="es" id="exe-page-mopw0hcx-gutf81fz3">
+<head>
+<meta charset="utf-8">
+<meta name="generator" content="eXeLearning v4.0.0">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+<title>MQTT | Moon Camp</title>
+<link rel="icon" type="image/x-icon" href="../libs/favicon.ico">
+<meta name="description" content=".">
+<script>document.querySelector("html").classList.add("js");</script><script src="../libs/jquery/jquery.min.js"> </script><script src="../libs/common_i18n.js"> </script><script src="../libs/common.js"> </script><script src="../libs/exe_export.js"> </script><script src="../libs/bootstrap/bootstrap.bundle.min.js"> </script><link rel="stylesheet" href="../libs/bootstrap/bootstrap.min.css">
+<script src="../idevices/text/text.js"></script><link rel="stylesheet" href="../idevices/text/text.css">
+<link rel="stylesheet" href="../content/css/base.css"><script src="../theme/style.js"> </script><link rel="stylesheet" href="../theme/style.css">
+</head>
+<body class="exe-export exe-web-site">
+<script>document.body.className+=" js"</script>
+<div class="exe-content exe-export pre-js siteNav-hidden"><a href="#page-mopw0hcx-gutf81fz3" id="skipNav">Skip to content</a> <nav id="siteNav">
+<ul>
+<li> <a href="../index.html" class="main-node no-ch">ESEROVER</a>
+</li>
+<li> <a href="../html/objetivos-del-proyecto.html" class="no-ch">OBJETIVOS DEL PROYECTO</a>
+</li>
+<li> <a href="../html/eserover-cutebot.html" class="daddy">ESEROVER Cutebot</a>
+<ul class="other-section">
+<li> <a href="../html/estructura-cutebot.html" class="daddy">Estructura Cutebot</a>
+<ul class="other-section">
+<li> <a href="../html/stl-cutebot.html" class="no-ch">STL Cutebot</a>
+</li>
+</ul>
+</li>
+<li> <a href="../html/placa-de-control-microsteamakers.html" class="no-ch">Placa de control (Microsteamakers)</a>
+</li>
+<li> <a href="../html/biblioteca-cutebot.html" class="no-ch">Biblioteca Cutebot</a>
+</li>
+<li> <a href="../html/retos-cutebot-marte.html" class="daddy">Retos Cutebot Marte</a>
+<ul class="other-section">
+<li> <a href="../html/desplazamiento-sobre-planeta.html" class="no-ch">Desplazamiento sobre planeta</a>
+</li>
+<li> <a href="../html/parada-en-blanco.html" class="no-ch">Parada en blanco</a>
+</li>
+<li> <a href="../html/robot-magico.html" class="no-ch">Robot Mágico</a>
+</li>
+<li> <a href="../html/esquiva-rocas.html" class="no-ch">Esquiva Rocas</a>
+</li>
+<li> <a href="../html/encerrado.html" class="no-ch">Encerrado</a>
+</li>
+<li> <a href="../html/siguelineas.html" class="no-ch">Siguelineas</a>
+</li>
+<li> <a href="../html/control-remoto.html" class="no-ch">Control remoto</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="current-page-parent"> <a href="../html/robot-iot-cutebot.html" class="daddy">Robot IoT (Cutebot)</a>
+<ul class="other-section">
+<li class="active"> <a href="../html/mqtt.html" class="active daddy">MQTT</a>
+<ul class="other-section">
+<li> <a href="../html/brokers-disponibles.html" class="no-ch">Brokers disponibles</a>
+</li>
+<li> <a href="../html/como-crear-servidor-mqtt-broker.html" class="no-ch">Como crear Servidor MQTT (Broker)</a>
+</li>
+<li> <a href="../html/placa-iot.html" class="no-ch">Placa IoT</a>
+</li>
+<li> <a href="../html/paneles-o-dashboards.html" class="no-ch">Paneles o dashboards</a>
+</li>
+</ul>
+</li>
+<li> <a href="../html/servidor-web.html" class="no-ch">Servidor Web</a>
+</li>
+</ul>
+</li>
+<li> <a href="../html/actividades-en-el-aula.html" class="no-ch">ACTIVIDADES EN EL AULA</a>
+</li>
+<li> <a href="../html/evaluacion-del-proyecto.html" class="no-ch">EVALUACIÓN DEL PROYECTO</a>
+</li>
+<li> <a href="../html/creditos.html" class="no-ch">CRÉDITOS</a>
+</li>
+</ul>
+</nav><main id="page-mopw0hcx-gutf81fz3" class="page"> 
+<header class="main-header">
+<div class="package-header"><p class="package-title">Moon Camp</p></div>
+<div class="page-header"><h1 class="page-title">MQTT</h1></div>
+</header><div id="page-content-page-mopw0hcx-gutf81fz3" class="page-content">
+<article id="20251124174722HDVZJL" class="box no-header">
+<header class="box-head">
+<div class="box-icon exe-icon">
+<img src="../theme/icons/description.png" alt="">
+</div>
+<button class="box-toggle box-toggle-on" title="Toggle content">
+<span>Toggle content</span>
+</button></header>
+<div class="box-content">
+<div id="20251121152103JRMUJG" class="idevice_node text" data-idevice-path="../idevices/text/" data-idevice-type="text" data-idevice-component-type="json" data-idevice-json-data="{&quot;ideviceId&quot;:&quot;20251121152103JRMUJG&quot;}">
+<p>En este apartado explicaremos como tener un sistema o robot gobernado a través de protocolo MQTT y programado con Microblocks. En nuestro caso el sistema será un robot Cutebot.</p>
+<p><span style="font-size: 36pt;"><span style="font-family: helvetica, arial, sans-serif;"><strong>MQTT</strong></span>+<img src="../content/resources/20251204113734FPAICT/MicroBlocks.svg" alt="microblocks" title="microblocks" width="252" height="136" style="vertical-align: middle;" />+<img src="../content/resources/20251121152103JRMUJG/cutebot.jpg" alt="cutebot" title="cutebot" width="150" height="150" style="vertical-align: middle;" /></span></p>
+</div>
+</div>
+</article><article id="block-1777734032966-l7z0m2xo0" class="box">
+<header class="box-head no-icon">
+<h1 class="box-title">¿Qué es MQTT?</h1>
+<button class="box-toggle box-toggle-on" title="Toggle content">
+<span>Toggle content</span>
+</button></header>
+<div class="box-content">
+<div id="20251121152103KNELDD" class="idevice_node text" data-idevice-path="../idevices/text/" data-idevice-type="text" data-idevice-component-type="json" data-idevice-json-data="{&quot;ideviceId&quot;:&quot;20251121152103KNELDD&quot;}">
+<p>MQTT (Message Queuing Telemetry Transport) es un protocolo de comunicación que permite que los dispositivos hablen entre sí de forma ligera y rápida, ideal para el Internet de las Cosas (IoT). Las comunicaciones funcionan entre dispositivos funcionan mediante publicaciones de mensajes con temática y valores y subscriciones a los mismos de otros dispositivos que lo reciben y procesan.</p>
+<p><a href="https://www.luisllamas.es/que-es-mqtt-su-importancia-como-protocolo-iot/" target="_blank" rel="noopener">¿Que es mqtt?</a>: por Luis llamas</p>
+</div>
+</div>
+</article><article id="block-1777734360611-doas60crn" class="box">
+<header class="box-head no-icon">
+<h1 class="box-title">¿Qué es un servidor o broker mqtt?</h1>
+<button class="box-toggle box-toggle-on" title="Toggle content">
+<span>Toggle content</span>
+</button></header>
+<div class="box-content">
+<div id="idevice-1777734360610-ju6jlzo3e" class="idevice_node text" data-idevice-path="../idevices/text/" data-idevice-type="text" data-idevice-component-type="json" data-idevice-json-data="{&quot;ideviceId&quot;:&quot;idevice-1777734360610-ju6jlzo3e&quot;}">
+<div class="exe-text-template">
+    <p>Un MQTT Broker es el corazón de cualquier red basada en el protocolo MQTT (Message Queuing Telemetry Transport). Imaginalo como un servidor central o un "director de orquesta" que se encarga de recibir los mensajes de unos dispositivos y entregarlos a otros.</p>
+<p>A diferencia del modelo tradicional donde un cliente habla directamente con un servidor (como cuando entras a una web), en MQTT los dispositivos nunca hablan entre sí directamente. Todo pasa por el broker.</p>
+<p><strong>¿Cómo funciona? (El modelo Publicación/Suscripción)</strong><br />El broker utiliza un sistema llamado Pub/Sub. Aquí no hay direcciones IP fijas entre dispositivos, sino "Temas" (Topics).</p>
+<ul>
+<li>Publicadores: Un dispositivo (ej. un sensor de temperatura) envía un dato al broker bajo un tema específico, como casa/salon/temperatura.</li>
+<li>Suscriptores: Otros dispositivos (ej. una app en tu móvil o una base de datos) le dicen al broker: "Avisame cuando haya novedades en casa/salon/temperatura".</li>
+</ul>
+<p>El Broker: Recibe el mensaje del publicador y lo reenvía instantáneamente a todos los que estén suscritos a ese tema.</p>
+</div>
+</div>
+</div>
+</article>
+</div></main><div class="nav-buttons">
+<a href="../html/robot-iot-cutebot.html" title="Anterior" class="nav-button nav-button-left"><span>Anterior</span></a>
+<a href="../html/brokers-disponibles.html" title="Siguiente" class="nav-button nav-button-right"><span>Siguiente</span></a>
+</div>
+<footer id="siteFooter"><div id="siteFooterContent"> <div id="packageLicense" class="cc cc-by-nc-sa"> <p> <span class="license-label">Licencia: </span><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" class="license">Creative Commons: Reconocimiento - no comercial - compartir igual 4.0</a></p>
+</div>
+</div></footer>
+</div>
+<p id="made-with-eXe"> <a href="https://exelearning.net/" target="_blank" rel="noopener"> <span>Creado con eXeLearning <span>(nueva ventana)</span></span></a></p>
+</body>
+</html>
