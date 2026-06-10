@@ -1,11 +1,11 @@
 <!DOCTYPE html>
-<html lang="es" id="exe-page-mpyauhak-7ih8d7jw5">
+<html lang="es" id="exe-page-mpyauhar-k3s426qt8">
 <head>
 <meta charset="utf-8">
 <meta name="generator" content="eXeLearning v4.0.1">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
-<title>MQTT | Moon Camp</title>
+<title>Control wifi | Moon Camp</title>
 <link rel="icon" type="image/x-icon" href="../libs/favicon.ico">
 <meta name="description" content=".">
 <script>document.querySelector("html").classList.add("js");</script><script src="../libs/jquery/jquery.min.js"> </script><script src="../libs/common_i18n.js"> </script><script src="../libs/common.js"> </script><script src="../libs/exe_export.js"> </script><script src="../libs/bootstrap/bootstrap.bundle.min.js"> </script><link rel="stylesheet" href="../libs/bootstrap/bootstrap.min.css">
@@ -14,7 +14,7 @@
 </head>
 <body class="exe-export exe-web-site">
 <script>document.body.className+=" js"</script>
-<div class="exe-content exe-export pre-js siteNav-hidden"><a href="#page-mpyauhak-7ih8d7jw5" id="skipNav">Skip to content</a> <nav id="siteNav">
+<div class="exe-content exe-export pre-js siteNav-hidden"><a href="#page-mpyauhar-k3s426qt8" id="skipNav">Skip to content</a> <nav id="siteNav">
 <ul>
 <li> <a href="../index.html" class="main-node no-ch">ESEROVER</a>
 </li>
@@ -54,7 +54,7 @@
 </li>
 <li class="current-page-parent"> <a href="../html/eserover-iot.html" class="daddy">ESEROVER IoT</a>
 <ul class="other-section">
-<li class="active"> <a href="../html/mqtt.html" class="active daddy">MQTT</a>
+<li> <a href="../html/mqtt.html" class="daddy">MQTT</a>
 <ul class="other-section">
 <li> <a href="../html/brokers-disponibles.html" class="no-ch">Brokers disponibles</a>
 </li>
@@ -66,7 +66,7 @@
 </li>
 </ul>
 </li>
-<li> <a href="../html/control-wifi.html" class="no-ch">Control wifi</a>
+<li class="active"> <a href="../html/control-wifi.html" class="active no-ch">Control wifi</a>
 </li>
 </ul>
 </li>
@@ -77,12 +77,12 @@
 <li> <a href="../html/creditos.html" class="no-ch">CRÉDITOS</a>
 </li>
 </ul>
-</nav><main id="page-mpyauhak-7ih8d7jw5" class="page"> 
+</nav><main id="page-mpyauhar-k3s426qt8" class="page"> 
 <header class="main-header">
 <div class="package-header"><p class="package-title">Moon Camp</p></div>
-<div class="page-header"><h1 class="page-title">MQTT</h1></div>
-</header><div id="page-content-page-mpyauhak-7ih8d7jw5" class="page-content">
-<article id="20251124174722HDVZJL" class="box no-header">
+<div class="page-header"><h1 class="page-title">Control wifi</h1></div>
+</header><div id="page-content-page-mpyauhar-k3s426qt8" class="page-content">
+<article id="20251219163328NTLLUZ" class="box no-header">
 <header class="box-head">
 <div class="box-icon exe-icon">
 <img src="../theme/icons/book.svg" alt="">
@@ -91,55 +91,72 @@
 <span>Toggle content</span>
 </button></header>
 <div class="box-content">
-<div id="20251121152103JRMUJG" class="idevice_node text" data-idevice-path="../idevices/text/" data-idevice-type="text" data-idevice-component-type="json" data-idevice-json-data="{&quot;ideviceId&quot;:&quot;20251121152103JRMUJG&quot;}">
-<div class="exe-text-template">
-    <p>En este apartado explicaremos como tener un sistema o robot gobernado a través de protocolo MQTT y programado con Microblocks. En nuestro caso el sistema será la placa microSTEAMakers que gobierna al robot ESEROver.</p>
-<p><span style="font-size: 36pt;"><span style="font-family: helvetica, arial, sans-serif;"><strong>MQTT</strong></span>+<img src="../content/resources/20251204113734FPAICT/MicroBlocks.svg" alt="microblocks" title="microblocks" width="252" height="136" style="vertical-align: middle;" /></span></p>
+<div id="20251204113734DGASQJ" class="idevice_node text" data-idevice-path="../idevices/text/" data-idevice-type="text" data-idevice-component-type="json" data-idevice-json-data="{&quot;ideviceId&quot;:&quot;20251204113734DGASQJ&quot;}">
+<p>Realiza un servidor web en la placa microSTEAMakers que atiende a peticiones get realizadas por una página web a modo de panel de control. Se puede realizar en modo local (intranet) dónde las peticiones get se realizan a la ip local de la placa, o bién desde cualquier lugar (internet), redireccionando el puerto 80 del router a la ip local de la placa. En este caso las peticiones get se harían a la ip pública del router.</p>
 </div>
 </div>
-</div>
-</article><article id="block-1777734032966-l7z0m2xo0" class="box">
+</article><article id="20251219163328AHJTOX" class="box">
 <header class="box-head">
 <div class="box-icon exe-icon">
 <img src="../theme/icons/book.svg" alt="">
 </div>
-<h1 class="box-title">¿Qué es MQTT?</h1>
+<h1 class="box-title">Aplicación para la placa</h1>
 <button class="box-toggle box-toggle-on" title="Toggle content">
 <span>Toggle content</span>
 </button></header>
 <div class="box-content">
-<div id="20251121152103KNELDD" class="idevice_node text" data-idevice-path="../idevices/text/" data-idevice-type="text" data-idevice-component-type="json" data-idevice-json-data="{&quot;ideviceId&quot;:&quot;20251121152103KNELDD&quot;}">
-<p>MQTT (Message Queuing Telemetry Transport) es un protocolo de comunicación que permite que los dispositivos hablen entre sí de forma ligera y rápida, ideal para el Internet de las Cosas (IoT). Las comunicaciones funcionan entre dispositivos funcionan mediante publicaciones de mensajes con temática y valores y subscriciones a los mismos de otros dispositivos que lo reciben y procesan.</p>
-<p><a href="https://www.luisllamas.es/que-es-mqtt-su-importancia-como-protocolo-iot/" target="_blank" rel="noopener">¿Que es mqtt?</a>: por Luis llamas</p>
+<div id="20251204113734RXYCYS" class="idevice_node text" data-idevice-path="../idevices/text/" data-idevice-type="text" data-idevice-component-type="json" data-idevice-json-data="{&quot;ideviceId&quot;:&quot;20251204113734RXYCYS&quot;}">
+<p>Atiende a diferentes peticiones get, en fucnión de las mismas se mueve o emite datos de sensores.</p>
+<p><img src="../content/resources/20251204113734RXYCYS/programa_web.png" alt="programa web" title="programa web" width="799" height="648" /></p>
 </div>
 </div>
-</article><article id="block-1777734360611-doas60crn" class="box">
+</article><article id="20251219163328WRKJWK" class="box">
 <header class="box-head">
 <div class="box-icon exe-icon">
 <img src="../theme/icons/book.svg" alt="">
 </div>
-<h1 class="box-title">¿Qué es un servidor o broker mqtt?</h1>
+<h1 class="box-title">Programa de la placa</h1>
 <button class="box-toggle box-toggle-on" title="Toggle content">
 <span>Toggle content</span>
 </button></header>
 <div class="box-content">
-<div id="idevice-1777734360610-ju6jlzo3e" class="idevice_node text" data-idevice-path="../idevices/text/" data-idevice-type="text" data-idevice-component-type="json" data-idevice-json-data="{&quot;ideviceId&quot;:&quot;idevice-1777734360610-ju6jlzo3e&quot;}">
-<div class="exe-text-template">
-    <p>Un MQTT Broker es el corazón de cualquier red basada en el protocolo MQTT (Message Queuing Telemetry Transport). Imaginalo como un servidor central o un "director de orquesta" que se encarga de recibir los mensajes de unos dispositivos y entregarlos a otros.</p>
-<p>A diferencia del modelo tradicional donde un cliente habla directamente con un servidor (como cuando entras a una web), en MQTT los dispositivos nunca hablan entre sí directamente. Todo pasa por el broker.</p>
-<p><strong>¿Cómo funciona? (El modelo Publicación/Suscripción)</strong><br />El broker utiliza un sistema llamado Pub/Sub. Aquí no hay direcciones IP fijas entre dispositivos, sino "Temas" (Topics).</p>
-<ul>
-<li>Publicadores: Un dispositivo (ej. un sensor de temperatura) envía un dato al broker bajo un tema específico, como casa/salon/temperatura.</li>
-<li>Suscriptores: Otros dispositivos (ej. una app en tu móvil o una base de datos) le dicen al broker: "Avisame cuando haya novedades en casa/salon/temperatura".</li>
-</ul>
-<p>El Broker: Recibe el mensaje del publicador y lo reenvía instantáneamente a todos los que estén suscritos a ese tema.</p>
+<div id="20251204113734UUSUHZ" class="idevice_node text" data-idevice-path="../idevices/text/" data-idevice-type="text" data-idevice-component-type="json" data-idevice-json-data="{&quot;ideviceId&quot;:&quot;20251204113734UUSUHZ&quot;}">
+<p><a href="../content/resources/20251204113734UUSUHZ/control_wifi2.ubp" target="_blank">control_wifi2.ubp</a></p>
 </div>
+</div>
+</article><article id="20251219163328HNATXX" class="box">
+<header class="box-head">
+<div class="box-icon exe-icon">
+<img src="../theme/icons/book.svg" alt="">
+</div>
+<h1 class="box-title">Página web de control o panel (dashboard)</h1>
+<button class="box-toggle box-toggle-on" title="Toggle content">
+<span>Toggle content</span>
+</button></header>
+<div class="box-content">
+<div id="20251204113734WUFDBC" class="idevice_node text" data-idevice-path="../idevices/text/" data-idevice-type="text" data-idevice-component-type="json" data-idevice-json-data="{&quot;ideviceId&quot;:&quot;20251204113734WUFDBC&quot;}">
+<p>Se trata de una web realizada con ayuda de chat GPT a modo de panel de control del robot, se lanzarán peticiones get para moverlo y para pedirle datos de sensores para ser representados o guardados a través de la web. Hay que modificar en la página web la ip en las peticiones por la ip local de la placa o bien la ip pública del router si se ha redirigido el puerto 80 del router a la ip local de la placa.</p>
+<p><img src="../content/resources/20251204113734WUFDBC/web_de_control_web.png" alt="web de control" title="web de control" width="589" height="932" /></p>
+</div>
+</div>
+</article><article id="20251219163328YDPDQK" class="box">
+<header class="box-head">
+<div class="box-icon exe-icon">
+<img src="../theme/icons/book.svg" alt="">
+</div>
+<h1 class="box-title">web de control</h1>
+<button class="box-toggle box-toggle-on" title="Toggle content">
+<span>Toggle content</span>
+</button></header>
+<div class="box-content">
+<div id="20251204113734AEVLWL" class="idevice_node text" data-idevice-path="../idevices/text/" data-idevice-type="text" data-idevice-component-type="json" data-idevice-json-data="{&quot;ideviceId&quot;:&quot;20251204113734AEVLWL&quot;}">
+<p><a href="../content/resources/20251204113734AEVLWL/cutebot13.html" target="_blank">cutebot13.html</a></p>
 </div>
 </div>
 </article>
 </div></main><div class="nav-buttons">
-<a href="../html/eserover-iot.html" title="Anterior" class="nav-button nav-button-left"><span>Anterior</span></a>
-<a href="../html/brokers-disponibles.html" title="Siguiente" class="nav-button nav-button-right"><span>Siguiente</span></a>
+<a href="../html/paneles-o-dashboards.html" title="Anterior" class="nav-button nav-button-left"><span>Anterior</span></a>
+<a href="../html/actividades-en-el-aula.html" title="Siguiente" class="nav-button nav-button-right"><span>Siguiente</span></a>
 </div>
 <footer id="siteFooter"><div id="siteFooterContent"> <div id="packageLicense" class="cc cc-by-nc-sa"> <p> <span class="license-label">Licencia: </span><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" class="license">Creative Commons: Reconocimiento - no comercial - compartir igual 4.0</a></p>
 </div>

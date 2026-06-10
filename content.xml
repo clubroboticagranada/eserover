@@ -10,15 +10,15 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>20260503172016GPJF0Y</value>
+    <value>20260603184848C5BBJN</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>20260503172016H4WIBR</value>
+    <value>20260603184848XOH3H5</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
-    <value>4.0.0</value>
+    <value>4.0.1</value>
   </odeResource>
 </odeResources>
 <odeProperties>
@@ -52,11 +52,11 @@
   </odeProperty>
   <odeProperty>
     <key>pp_exelearning_version</key>
-    <value>v4.0.0</value>
+    <value>v4.0.1</value>
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1777819811005</value>
+    <value>1781074142572</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -89,7 +89,7 @@
 </odeProperties>
 <odeNavStructures>
 <odeNavStructure>
-  <odePageId>page-mopw0hc4-wu15ouh5v</odePageId>
+  <odePageId>page-mpyauh9p-26t3l71hv</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>ESEROVER</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
@@ -125,7 +125,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mopw0hc4-wu15ouh5v</odePageId>
+      <odePageId>page-mpyauh9p-26t3l71hv</odePageId>
       <odeBlockId>20251219163328CJJPVD</odeBlockId>
       <blockName>Proyecto de Robótica Educativa: Robots de bajo coste para Moon Camp</blockName>
       <iconName></iconName>
@@ -154,7 +154,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mopw0hc4-wu15ouh5v</odePageId>
+          <odePageId>page-mpyauh9p-26t3l71hv</odePageId>
           <odeBlockId>20251219163328CJJPVD</odeBlockId>
           <odeIdeviceId>20251204113734NBBICG</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -191,7 +191,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mopw0hc7-9eqahg9lr</odePageId>
+  <odePageId>page-mpyauh9s-781vzybue</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>OBJETIVOS DEL PROYECTO</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
@@ -227,10 +227,10 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mopw0hc7-9eqahg9lr</odePageId>
+      <odePageId>page-mpyauh9s-781vzybue</odePageId>
       <odeBlockId>20251219163328UVHWMO</odeBlockId>
       <blockName></blockName>
-      <iconName></iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>7</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -256,20 +256,18 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mopw0hc7-9eqahg9lr</odePageId>
+          <odePageId>page-mpyauh9s-781vzybue</odePageId>
           <odeBlockId>20251219163328UVHWMO</odeBlockId>
           <odeIdeviceId>20251204113734YSGOPT</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
-          <htmlView><![CDATA[<div class="exe-text-template">
-    <ul>
+          <htmlView><![CDATA[<ul>
 <li style="text-align: justify;">Desarrollar un robot DIY desde el Club Robótica Granada de forma que pueda ser fácilmente replicable y programable en el entorno escolar, tanto en primaria como en secundaria.</li>
 <li style="text-align: justify;">Fomentar el aprendizaje de la robótica educativa mediante la modificación de hardware y software de robots comerciales de bajo costo.</li>
-<li style="text-align: justify;">Integrar el uso de tecnologías de programación visual (MicroBlocks, Makecode) y lenguajes textuales como Python.</li>
+<li style="text-align: justify;">Integrar el uso de tecnologías de programación visual (MakeCode y MicroBlocks) y lenguajes como Python.</li>
 <li style="text-align: justify;">Simular una misión lunar con desafíos inspirados en la vida en la Luna.</li>
 <li style="text-align: justify;">Desarrollar habilidades de trabajo en equipo, pensamiento crítico y resolución de problemas.</li>
-</ul>
-</div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"20251204113734YSGOPT","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li style=\"text-align: justify;\">Desarrollar un robot DIY desde el Club Robótica Granada de forma que pueda ser fácilmente replicable y programable en el entorno escolar, tanto en primaria como en secundaria.</li>\n<li style=\"text-align: justify;\">Fomentar el aprendizaje de la robótica educativa mediante la modificación de hardware y software de robots comerciales de bajo costo.</li>\n<li style=\"text-align: justify;\">Integrar el uso de tecnologías de programación visual (MicroBlocks, Makecode) y lenguajes textuales como Python.</li>\n<li style=\"text-align: justify;\">Simular una misión lunar con desafíos inspirados en la vida en la Luna.</li>\n<li style=\"text-align: justify;\">Desarrollar habilidades de trabajo en equipo, pensamiento crítico y resolución de problemas.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+</ul>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20251204113734YSGOPT","textInfoDurationInput":"","textInfoParticipantsInput":"","textInfoDurationTextInput":"","textInfoParticipantsTextInput":"","textTextarea":"<ul>\n<li style=\"text-align: justify;\">Desarrollar un robot DIY desde el Club Robótica Granada de forma que pueda ser fácilmente replicable y programable en el entorno escolar, tanto en primaria como en secundaria.</li>\n<li style=\"text-align: justify;\">Fomentar el aprendizaje de la robótica educativa mediante la modificación de hardware y software de robots comerciales de bajo costo.</li>\n<li style=\"text-align: justify;\">Integrar el uso de tecnologías de programación visual (MakeCode y MicroBlocks) y lenguajes como Python.</li>\n<li style=\"text-align: justify;\">Simular una misión lunar con desafíos inspirados en la vida en la Luna.</li>\n<li style=\"text-align: justify;\">Desarrollar habilidades de trabajo en equipo, pensamiento crítico y resolución de problemas.</li>\n</ul>","textFeedbackInput":"","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>1</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -291,7 +289,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mopw0hca-az7g2rqg9</odePageId>
+  <odePageId>page-mpyauh9t-8lpgkvpxk</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>ESEROVER Cutebot</pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
@@ -327,7 +325,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mopw0hca-az7g2rqg9</odePageId>
+      <odePageId>page-mpyauh9t-8lpgkvpxk</odePageId>
       <odeBlockId>20251219163328JWGYIY</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -356,7 +354,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mopw0hca-az7g2rqg9</odePageId>
+          <odePageId>page-mpyauh9t-8lpgkvpxk</odePageId>
           <odeBlockId>20251219163328JWGYIY</odeBlockId>
           <odeIdeviceId>20251204113734OAAVUK</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -388,8 +386,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mopw0hcc-tvgifq5ox</odePageId>
-  <odeParentPageId>page-mopw0hca-az7g2rqg9</odeParentPageId>
+  <odePageId>page-mpyauh9v-bki89gxo6</odePageId>
+  <odeParentPageId>page-mpyauh9t-8lpgkvpxk</odeParentPageId>
   <pageName>Estructura Cutebot</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -424,7 +422,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mopw0hcc-tvgifq5ox</odePageId>
+      <odePageId>page-mpyauh9v-bki89gxo6</odePageId>
       <odeBlockId>20251219163328KZXGBP</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -453,7 +451,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mopw0hcc-tvgifq5ox</odePageId>
+          <odePageId>page-mpyauh9v-bki89gxo6</odePageId>
           <odeBlockId>20251219163328KZXGBP</odeBlockId>
           <odeIdeviceId>20251204113734KLOGGV</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -483,7 +481,7 @@
           </odeComponentsProperties>
         </odeComponent>
         <odeComponent>
-          <odePageId>page-mopw0hcc-tvgifq5ox</odePageId>
+          <odePageId>page-mpyauh9v-bki89gxo6</odePageId>
           <odeBlockId>20251219163328KZXGBP</odeBlockId>
           <odeIdeviceId>20251213151700DAPDVV</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -513,7 +511,7 @@
           </odeComponentsProperties>
         </odeComponent>
         <odeComponent>
-          <odePageId>page-mopw0hcc-tvgifq5ox</odePageId>
+          <odePageId>page-mpyauh9v-bki89gxo6</odePageId>
           <odeBlockId>20251219163328KZXGBP</odeBlockId>
           <odeIdeviceId>20251213151847WRAZTN</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -547,8 +545,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mopw0hce-tcbutl3tq</odePageId>
-  <odeParentPageId>page-mopw0hcc-tvgifq5ox</odeParentPageId>
+  <odePageId>page-mpyauh9x-bta7weuwr</odePageId>
+  <odeParentPageId>page-mpyauh9v-bki89gxo6</odeParentPageId>
   <pageName>STL Cutebot</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -583,7 +581,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mopw0hce-tcbutl3tq</odePageId>
+      <odePageId>page-mpyauh9x-bta7weuwr</odePageId>
       <odeBlockId>20251219163328GWJWPH</odeBlockId>
       <blockName>Archivos STL Cutebot </blockName>
       <iconName></iconName>
@@ -612,7 +610,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mopw0hce-tcbutl3tq</odePageId>
+          <odePageId>page-mpyauh9x-bta7weuwr</odePageId>
           <odeBlockId>20251219163328GWJWPH</odeBlockId>
           <odeIdeviceId>20251204113734TIIAOT</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -643,8 +641,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mopw0hcf-nyxf07pec</odePageId>
-  <odeParentPageId>page-mopw0hca-az7g2rqg9</odeParentPageId>
+  <odePageId>page-mpyauha0-ipag2k55b</odePageId>
+  <odeParentPageId>page-mpyauh9t-8lpgkvpxk</odeParentPageId>
   <pageName>Placa de control (Microsteamakers)</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -687,10 +685,10 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mopw0hcf-nyxf07pec</odePageId>
+      <odePageId>page-mpyauha0-ipag2k55b</odePageId>
       <odeBlockId>20251219163328OBNHCN</odeBlockId>
       <blockName></blockName>
-      <iconName></iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -716,7 +714,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mopw0hcf-nyxf07pec</odePageId>
+          <odePageId>page-mpyauha0-ipag2k55b</odePageId>
           <odeBlockId>20251219163328OBNHCN</odeBlockId>
           <odeIdeviceId>202512180940257335AN</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -748,8 +746,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mopw0hch-5cgpf406h</odePageId>
-  <odeParentPageId>page-mopw0hca-az7g2rqg9</odeParentPageId>
+  <odePageId>page-mpyauha3-b1wlsxr3r</odePageId>
+  <odeParentPageId>page-mpyauh9t-8lpgkvpxk</odeParentPageId>
   <pageName>Biblioteca Cutebot</pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -792,10 +790,10 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mopw0hch-5cgpf406h</odePageId>
+      <odePageId>page-mpyauha3-b1wlsxr3r</odePageId>
       <odeBlockId>20251219163328CQKHYT</odeBlockId>
       <blockName>Biblioteca movimientos Cutebot</blockName>
-      <iconName>psychology</iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>115</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -821,7 +819,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mopw0hch-5cgpf406h</odePageId>
+          <odePageId>page-mpyauha3-b1wlsxr3r</odePageId>
           <odeBlockId>20251219163328CQKHYT</odeBlockId>
           <odeIdeviceId>20251204113734EZALSQ</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -854,14 +852,14 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mopw0hci-p4je20r66</odePageId>
-  <odeParentPageId>page-mopw0hca-az7g2rqg9</odeParentPageId>
-  <pageName>Retos Cutebot Marte</pageName>
+  <odePageId>page-mpyauha4-5qk07be4n</odePageId>
+  <odeParentPageId>page-mpyauh9t-8lpgkvpxk</odeParentPageId>
+  <pageName>Retos Cutebot: Destino Marte</pageName>
   <odeNavStructureOrder>3</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
-      <value>Retos Cutebot Marte</value>
+      <value>Retos Cutebot: Destino Marte</value>
     </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>visibility</key>
@@ -885,7 +883,7 @@
     </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>titleNode</key>
-      <value>Retos Cutebot Marte</value>
+      <value>Retos Cutebot: Destino Marte</value>
     </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>titleHtml</key>
@@ -898,9 +896,9 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mopw0hci-p4je20r66</odePageId>
+      <odePageId>page-mpyauha4-5qk07be4n</odePageId>
       <odeBlockId>20251219163328LSNMSD</odeBlockId>
-      <blockName></blockName>
+      <blockName>Misión ESEROver: Destino Marte</blockName>
       <iconName>rule</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
@@ -927,17 +925,16 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mopw0hci-p4je20r66</odePageId>
+          <odePageId>page-mpyauha4-5qk07be4n</odePageId>
           <odeBlockId>20251219163328LSNMSD</odeBlockId>
           <odeIdeviceId>20251204124105875ARL</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
-          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
-            <div class="exe-text-activity">
-                <div><p>Serie de Retos para realizar sobre mantel con motivos marcianos.</p>
-<p><img src="{{context_path}}/content/resources/20251204124105875ARL/ejemploTapete_1.png" title="mantel" width="600" height="424" alt="mantel"></p>
-<p><br></p><p class="clearfix"></p></div>
-            </div></div></div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"20251204124105875ARL","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Serie de Retos para realizar sobre mantel con motivos marcianos.</p>\n<p><img src=\"{{context_path}}/content/resources/20251204124105875ARL/ejemploTapete_1.png\" title=\"mantel\" width=\"600\" height=\"424\" alt=\"mantel\" /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><br />"Año 2035. La humanidad está lista para expandir el proyecto Moon Camp desde la Luna hasta el Cráter Jezero en Marte. Antes de que lleguen los primeros astronautas, hemos aterrizado un rover autónomo con CuteBot (ESEROver) en la superficie marciana. El tapete de pruebas es vuestro mapa de operaciones. Cada línea, blanca o negra, y cada obstáculo determinará si la misión es un éxito o un desastre absoluto. De vuestro código depende la supervivencia de la colonia."</p>
+<p><img src="{{context_path}}/content/resources/20251204124105875ARL/ejemploTapete_1.png" title="mantel" width="600" height="424" alt="mantel" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20251204124105875ARL","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><br />\"Año 2035. La humanidad está lista para expandir el proyecto Moon Camp desde la Luna hasta el Cráter Jezero en Marte. Antes de que lleguen los primeros astronautas, hemos aterrizado un rover autónomo con CuteBot (ESEROver) en la superficie marciana. El tapete de pruebas es vuestro mapa de operaciones. Cada línea, blanca o negra, y cada obstáculo determinará si la misión es un éxito o un desastre absoluto. De vuestro código depende la supervivencia de la colonia.\"</p>\n<p><img src=\"{{context_path}}/content/resources/20251204124105875ARL/ejemploTapete_1.png\" title=\"mantel\" width=\"600\" height=\"424\" alt=\"mantel\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>1</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -957,7 +954,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mopw0hci-p4je20r66</odePageId>
+      <odePageId>page-mpyauha4-5qk07be4n</odePageId>
       <odeBlockId>20251219163328DMUXRK</odeBlockId>
       <blockName>Soluciones a retos</blockName>
       <iconName>psychology</iconName>
@@ -986,27 +983,28 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mopw0hci-p4je20r66</odePageId>
+          <odePageId>page-mpyauha4-5qk07be4n</odePageId>
           <odeBlockId>20251219163328DMUXRK</odeBlockId>
           <odeIdeviceId>20251207110304834XQ6</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
-          <htmlView><![CDATA[<div class="exe-text-template">
-    <ul>
-<li title="programa_movimiento.ubp">Desplazamiento sobre planeta (<a href="{{context_path}}/content/resources/programas ubp/programa_movimiento.ubp" title="programa_movimiento.ubp" target="_blank" rel="noopener">ESERover</a>, Cutebot)</li>
-<li title="programa_para_blanco.ubp">Parada en blanco (<a href="{{context_path}}/content/resources/programas ubp/programa_para_blanco.ubp" title="programa_para_blanco.ubp" target="_blank" rel="noopener">ESERover</a>, <a href="{{context_path}}/content/resources/programas ubp/programa_para_blanco.ubp" title="programa_para_blanco.ubp" target="_blank" rel="noopener">Cutebot</a>)</li>
-<li title="programa_magico_cutebot.ubp">Robot mágico (<a href="{{context_path}}/content/resources/programas ubp/programa_magico.ubp" title="programa_magico.ubp">ESERover</a>, <a href="{{context_path}}/content/resources/programas ubp/programa_magico_cutebot.ubp" title="programa_magico_cutebot.ubp" target="_blank" rel="noopener">Cutebot</a>)</li>
-<li title="programa esquiva_cutebot.ubp">Esquiva rocas (<a href="{{context_path}}/content/resources/programas ubp/programa esquiva.ubp" title="programa esquiva.ubp" target="_blank" rel="noopener">ESERover</a>, <a href="{{context_path}}/content/resources/programas ubp/programa esquiva_cutebot.ubp" title="programa esquiva_cutebot.ubp" target="_blank" rel="noopener">Cutebot</a>)</li>
-<li title="programa_encerrado_blanco_cutebot.ubp">Encerrado (<a href="{{context_path}}/content/resources/programas ubp/programa_encerrado_blanco.ubp" title="programa_encerrado_blanco.ubp" target="_blank" rel="noopener">ESEROver</a>, <a href="{{context_path}}/content/resources/programas ubp/programa_encerrado_blanco_cutebot.ubp" title="programa_encerrado_blanco_cutebot.ubp" target="_blank" rel="noopener">Cutebot</a>)</li>
-<li title="programa_siguelineas_cutebot.ubp">Siguelíneas (<a href="{{context_path}}/content/resources/programas ubp/programa_siguelineas.ubp" title="programa_siguelineas.ubp" target="_blank" rel="noopener">ESEROver</a>, <a href="{{context_path}}/content/resources/programas ubp/programa_siguelineas_cutebot.ubp" title="programa_siguelineas_cutebot.ubp" target="_blank" rel="noopener">Cutebot</a>)</li>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><ul>
+<li><a href="{{context_path}}/content/resources/custom/programa_movimiento.ubp" target="_blank" id="link_0" rel="noopener" title="">Desplazamiento sobre planeta</a></li>
+<li><a href="{{context_path}}/content/resources/custom/para_blanco.ubp" target="_blank" id="link_1" rel="noopener" title="">Parada en blanco</a></li>
+<li><a href="{{context_path}}/content/resources/custom/programa_magico.ubp" target="_blank" id="link_2" rel="noopener" title="">Robot mágico</a></li>
+<li><a href="{{context_path}}/content/resources/custom/programa esquiva.ubp" target="_blank" id="link_3" rel="noopener" title="">Esquiva rocas</a></li>
+<li><a href="{{context_path}}/content/resources/custom/reto_encerrado_blanco.ubp" target="_blank" id="link_4" rel="noopener" title="">Encerrado</a></li>
+<li><a href="{{context_path}}/content/resources/custom/programa_siguelineas.ubp" target="_blank" id="link_5" rel="noopener" title="">Siguelíneas</a></li>
 <li>Control remoto
 <ul>
-<li title="programa_emisor.ubp"><a href="{{context_path}}/content/resources/programas ubp/programa_emisor.ubp" title="programa_emisor.ubp" target="_blank" rel="noopener">emisor</a> (ESERover y Cutebot el mismo)</li>
-<li title="programa_receptor_cutebot.ubp">receptor (<a href="{{context_path}}/content/resources/programas ubp/programa_receptor.ubp" title="programa_receptor.ubp" target="_blank" rel="noopener">ESERover</a>, <a href="{{context_path}}/content/resources/programas ubp/programa_receptor_cutebot.ubp" title="programa_receptor_cutebot.ubp" target="_blank" rel="noopener">Cutebot</a>)</li>
+<li><a href="{{context_path}}/content/resources/custom/MicroSTEAMaker_emisor.ubp" target="_blank" id="link_6" rel="noopener" title="">emisor</a></li>
+<li><a href="{{context_path}}/content/resources/custom/MicroSTEAMaker_receptor_optimizado.ubp" target="_blank" id="link_7" rel="noopener" title="">receptor</a></li>
 </ul>
 </li>
-</ul>
-</div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"20251207110304834XQ6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li title=\"programa_movimiento.ubp\">Desplazamiento sobre planeta (<a href=\"{{context_path}}/content/resources/programas ubp/programa_movimiento.ubp\" title=\"programa_movimiento.ubp\" target=\"_blank\" rel=\"noopener\">ESERover</a>, Cutebot)</li>\n<li title=\"programa_para_blanco.ubp\">Parada en blanco (<a href=\"{{context_path}}/content/resources/programas ubp/programa_para_blanco.ubp\" title=\"programa_para_blanco.ubp\" target=\"_blank\" rel=\"noopener\">ESERover</a>, <a href=\"{{context_path}}/content/resources/programas ubp/programa_para_blanco.ubp\" title=\"programa_para_blanco.ubp\" target=\"_blank\" rel=\"noopener\">Cutebot</a>)</li>\n<li title=\"programa_magico_cutebot.ubp\">Robot mágico (<a href=\"{{context_path}}/content/resources/programas ubp/programa_magico.ubp\" title=\"programa_magico.ubp\">ESERover</a>, <a href=\"{{context_path}}/content/resources/programas ubp/programa_magico_cutebot.ubp\" title=\"programa_magico_cutebot.ubp\" target=\"_blank\" rel=\"noopener\">Cutebot</a>)</li>\n<li title=\"programa esquiva_cutebot.ubp\">Esquiva rocas (<a href=\"{{context_path}}/content/resources/programas ubp/programa esquiva.ubp\" title=\"programa esquiva.ubp\" target=\"_blank\" rel=\"noopener\">ESERover</a>, <a href=\"{{context_path}}/content/resources/programas ubp/programa esquiva_cutebot.ubp\" title=\"programa esquiva_cutebot.ubp\" target=\"_blank\" rel=\"noopener\">Cutebot</a>)</li>\n<li title=\"programa_encerrado_blanco_cutebot.ubp\">Encerrado (<a href=\"{{context_path}}/content/resources/programas ubp/programa_encerrado_blanco.ubp\" title=\"programa_encerrado_blanco.ubp\" target=\"_blank\" rel=\"noopener\">ESEROver</a>, <a href=\"{{context_path}}/content/resources/programas ubp/programa_encerrado_blanco_cutebot.ubp\" title=\"programa_encerrado_blanco_cutebot.ubp\" target=\"_blank\" rel=\"noopener\">Cutebot</a>)</li>\n<li title=\"programa_siguelineas_cutebot.ubp\">Siguelíneas (<a href=\"{{context_path}}/content/resources/programas ubp/programa_siguelineas.ubp\" title=\"programa_siguelineas.ubp\" target=\"_blank\" rel=\"noopener\">ESEROver</a>, <a href=\"{{context_path}}/content/resources/programas ubp/programa_siguelineas_cutebot.ubp\" title=\"programa_siguelineas_cutebot.ubp\" target=\"_blank\" rel=\"noopener\">Cutebot</a>)</li>\n<li>Control remoto\n<ul>\n<li title=\"programa_emisor.ubp\"><a href=\"{{context_path}}/content/resources/programas ubp/programa_emisor.ubp\" title=\"programa_emisor.ubp\" target=\"_blank\" rel=\"noopener\">emisor</a> (ESERover y Cutebot el mismo)</li>\n<li title=\"programa_receptor_cutebot.ubp\">receptor (<a href=\"{{context_path}}/content/resources/programas ubp/programa_receptor.ubp\" title=\"programa_receptor.ubp\" target=\"_blank\" rel=\"noopener\">ESERover</a>, <a href=\"{{context_path}}/content/resources/programas ubp/programa_receptor_cutebot.ubp\" title=\"programa_receptor_cutebot.ubp\" target=\"_blank\" rel=\"noopener\">Cutebot</a>)</li>\n</ul>\n</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+</ul><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20251207110304834XQ6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li><a href=\"{{context_path}}/content/resources/custom/programa_movimiento.ubp\" target=\"_blank\" id=\"link_0\" rel=\"noopener\" title=\"\">Desplazamiento sobre planeta</a></li>\n<li><a href=\"{{context_path}}/content/resources/custom/para_blanco.ubp\" target=\"_blank\" id=\"link_1\" rel=\"noopener\" title=\"\">Parada en blanco</a></li>\n<li><a href=\"{{context_path}}/content/resources/custom/programa_magico.ubp\" target=\"_blank\" id=\"link_2\" rel=\"noopener\" title=\"\">Robot mágico</a></li>\n<li><a href=\"{{context_path}}/content/resources/custom/programa esquiva.ubp\" target=\"_blank\" id=\"link_3\" rel=\"noopener\" title=\"\">Esquiva rocas</a></li>\n<li><a href=\"{{context_path}}/content/resources/custom/reto_encerrado_blanco.ubp\" target=\"_blank\" id=\"link_4\" rel=\"noopener\" title=\"\">Encerrado</a></li>\n<li><a href=\"{{context_path}}/content/resources/custom/programa_siguelineas.ubp\" target=\"_blank\" id=\"link_5\" rel=\"noopener\" title=\"\">Siguelíneas</a></li>\n<li>Control remoto\n<ul>\n<li><a href=\"{{context_path}}/content/resources/custom/MicroSTEAMaker_emisor.ubp\" target=\"_blank\" id=\"link_6\" rel=\"noopener\" title=\"\">emisor</a></li>\n<li><a href=\"{{context_path}}/content/resources/custom/MicroSTEAMaker_receptor_optimizado.ubp\" target=\"_blank\" id=\"link_7\" rel=\"noopener\" title=\"\">receptor</a></li>\n</ul>\n</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>1</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -1028,8 +1026,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mopw0hck-no8n7yf6l</odePageId>
-  <odeParentPageId>page-mopw0hci-p4je20r66</odeParentPageId>
+  <odePageId>page-mpyauha7-eh2bwz0lm</odePageId>
+  <odeParentPageId>page-mpyauha4-5qk07be4n</odeParentPageId>
   <pageName>Desplazamiento sobre planeta</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1072,10 +1070,67 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mopw0hck-no8n7yf6l</odePageId>
+      <odePageId>page-mpyauha7-eh2bwz0lm</odePageId>
+      <odeBlockId>block-1779449705647-be59z21qm</odeBlockId>
+      <blockName>¡Aterrizaje confirmado!</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpyauha7-eh2bwz0lm</odePageId>
+          <odeBlockId>block-1779449705647-be59z21qm</odeBlockId>
+          <odeIdeviceId>idevice-1779449705644-g3jpgxie5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">El ESEROver ha tocado suelo marciano tras un viaje de 7 meses. El centro de control en la Tierra necesita verificar que los motores y los sistemas de tracción mecánica no han sufrido daños debido a las fuertes vibraciones del reingreso atmosférico.</p>
+<p style="text-align: justify;">El Reto Técnico: Programar movimientos básicos (avanzar, retroceder, girar en ángulos precisos de 90º) para trazar un patrón geométrico de reconocimiento inicial alrededor de la zona de aterrizaje.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779449705644-g3jpgxie5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">El ESEROver ha tocado suelo marciano tras un viaje de 7 meses. El centro de control en la Tierra necesita verificar que los motores y los sistemas de tracción mecánica no han sufrido daños debido a las fuertes vibraciones del reingreso atmosférico.</p>\n<p style=\"text-align: justify;\">El Reto Técnico: Programar movimientos básicos (avanzar, retroceder, girar en ángulos precisos de 90º) para trazar un patrón geométrico de reconocimiento inicial alrededor de la zona de aterrizaje.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpyauha7-eh2bwz0lm</odePageId>
       <odeBlockId>20251219163328SHUXKI</odeBlockId>
       <blockName></blockName>
-      <iconName>edit_note</iconName>
+      <iconName>think</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -1101,7 +1156,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mopw0hck-no8n7yf6l</odePageId>
+          <odePageId>page-mpyauha7-eh2bwz0lm</odePageId>
           <odeBlockId>20251219163328SHUXKI</odeBlockId>
           <odeIdeviceId>20251204154937218E6S</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1136,8 +1191,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mopw0hcm-d7n8e7y83</odePageId>
-  <odeParentPageId>page-mopw0hci-p4je20r66</odeParentPageId>
+  <odePageId>page-mpyauha8-qb5kl0mwy</odePageId>
+  <odeParentPageId>page-mpyauha4-5qk07be4n</odeParentPageId>
   <pageName>Parada en blanco</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1180,10 +1235,67 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mopw0hcm-d7n8e7y83</odePageId>
+      <odePageId>page-mpyauha8-qb5kl0mwy</odePageId>
+      <odeBlockId>block-1779450148407-avujacv2j</odeBlockId>
+      <blockName>Detectando depósitos blancos</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpyauha8-qb5kl0mwy</odePageId>
+          <odeBlockId>block-1779450148407-avujacv2j</odeBlockId>
+          <odeIdeviceId>idevice-1779450148406-bo2v1jhu8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Los satélites de la ESA han detectado depósitos brillantes que podrían ser placas de hielo de agua subterránea o depósitos salinos peligrosos. El ESEROver debe avanzar explorando el terreno oscuro, pero debe detenerse en seco de forma automática al pisar estas zonas blancas para tomar muestras sin hundirse ni dañar sus instrumentos.</p>
+<p style="text-align: justify;"><br />El Reto Técnico: El Cutebot avanza en línea recta y, al detectar una superficie blanca/brillante con sus sensores infrarrojos inferiores, debe detener por completo sus motores.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779450148406-bo2v1jhu8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Los satélites de la ESA han detectado depósitos brillantes que podrían ser placas de hielo de agua subterránea o depósitos salinos peligrosos. El ESEROver debe avanzar explorando el terreno oscuro, pero debe detenerse en seco de forma automática al pisar estas zonas blancas para tomar muestras sin hundirse ni dañar sus instrumentos.</p>\n<p style=\"text-align: justify;\"><br />El Reto Técnico: El Cutebot avanza en línea recta y, al detectar una superficie blanca/brillante con sus sensores infrarrojos inferiores, debe detener por completo sus motores.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpyauha8-qb5kl0mwy</odePageId>
       <odeBlockId>20251219163328HDDURW</odeBlockId>
       <blockName></blockName>
-      <iconName>edit_note</iconName>
+      <iconName>think</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -1209,17 +1321,20 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mopw0hcm-d7n8e7y83</odePageId>
+          <odePageId>page-mpyauha8-qb5kl0mwy</odePageId>
           <odeBlockId>20251219163328HDDURW</odeBlockId>
           <odeIdeviceId>20251206202445626ZKR</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
-          <htmlView><![CDATA[<div class="exe-text-template">
-    <div class="exe-text-activity"><p>Trata de llevar el robot del casillero K6 al K1, con una parada no por tiempo, sino parando en línea blanca.</p><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Ayuda" data-text-a="Ayuda" data-text-b="Ayuda"></div><div class="feedback js-feedback js-hidden" style="display: none;"><p>Código para ESERover:</p>
-<p><img src="{{context_path}}/content/resources/20251206202445626ZKR/reto_para_blanco_1.png" title="reto para blanco" width="600" height="252" alt="reto para blanco" /><br /></p>
-<p>Código para Cutebot: El mismo que el anterior.</p>
-<p><br /></p></div></div>
-</div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"20251206202445626ZKR","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><p>Trata de llevar el robot del casillero K6 al K1, con una parada no por tiempo, sino parando en línea blanca.</p><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Ayuda\" data-text-a=\"Ayuda\" data-text-b=\"Ayuda\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><p>Código para ESERover:</p>\n<p><img src=\"{{context_path}}/content/resources/20251206202445626ZKR/reto_para_blanco_1.png\" title=\"reto para blanco\" width=\"600\" height=\"252\" alt=\"reto para blanco\" /><br /></p>\n<p>Código para Cutebot: El mismo que el anterior.</p>\n<p><br /></p></div></div>","textFeedbackInput":"Ayuda","textFeedbackTextarea":"<p>Código para ESERover:</p>\n<p><img src=\"{{context_path}}/content/resources/20251206202445626ZKR/reto_para_blanco_1.png\" title=\"reto para blanco\" width=\"600\" height=\"252\" alt=\"reto para blanco\" /><br /></p>\n<p>Código para Cutebot: El mismo que el anterior.</p>\n<p><br /></p>"}]]></jsonProperties>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>Trata de llevar el robot del casillero K6 al K1, con una parada no por tiempo, sino parando en línea blanca.</p>
+            <div class="iDevice_buttons feedback-button js-required">
+                <input type="button" class="feedbacktooglebutton" value="Ayuda">
+            </div>
+            <div class="feedback js-feedback js-hidden"><p>Código:</p>
+<p><img src="{{context_path}}/content/resources/20251206202445626ZKR/reto_para_blanco_1.png" title="reto para blanco" width="600" height="252" alt="reto para blanco" /><br /></p></div><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20251206202445626ZKR","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Trata de llevar el robot del casillero K6 al K1, con una parada no por tiempo, sino parando en línea blanca.</p>","textFeedbackInput":"Ayuda","textFeedbackTextarea":"<p>Código:</p>\n<p><img src=\"{{context_path}}/content/resources/20251206202445626ZKR/reto_para_blanco_1.png\" title=\"reto para blanco\" width=\"600\" height=\"252\" alt=\"reto para blanco\" /><br /></p>"}]]></jsonProperties>
           <odeComponentsOrder>1</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -1241,8 +1356,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mopw0hcn-zpib9akjx</odePageId>
-  <odeParentPageId>page-mopw0hci-p4je20r66</odeParentPageId>
+  <odePageId>page-mpyauha9-rf6rwuw7u</odePageId>
+  <odeParentPageId>page-mpyauha4-5qk07be4n</odeParentPageId>
   <pageName>Robot Mágico</pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1285,10 +1400,67 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mopw0hcn-zpib9akjx</odePageId>
+      <odePageId>page-mpyauha9-rf6rwuw7u</odePageId>
+      <odeBlockId>block-1779450477423-uvhmngdyt</odeBlockId>
+      <blockName>ESEROver mágico</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpyauha9-rf6rwuw7u</odePageId>
+          <odeBlockId>block-1779450477423-uvhmngdyt</odeBlockId>
+          <odeIdeviceId>idevice-1779450477421-44cl0e53c</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Una inesperada tormenta solar está generando interferencias electromagnéticas y estática en la atmósfera de Marte. Para evitar que el robot se descontrole, los ingenieros han activado el "Modo de Interacción de Emergencia". Los astronautas pueden guiar al robot a distancia usando "campos de fuerza" (sus manos), haciendo que el robot reaccione sin tocarlo físicamente.</p>
+<p style="text-align: justify;"><br />El Reto Técnico: Utilizar el sensor de ultrasonidos frontal (o sensores de luz) para que el robot interactúe dinámicamente con un objeto o mano que se le acerque (por ejemplo, retroceder si la mano se acerca demasiado o avanzar si se aleja).</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779450477421-44cl0e53c","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Una inesperada tormenta solar está generando interferencias electromagnéticas y estática en la atmósfera de Marte. Para evitar que el robot se descontrole, los ingenieros han activado el \"Modo de Interacción de Emergencia\". Los astronautas pueden guiar al robot a distancia usando \"campos de fuerza\" (sus manos), haciendo que el robot reaccione sin tocarlo físicamente.</p>\n<p style=\"text-align: justify;\"><br />El Reto Técnico: Utilizar el sensor de ultrasonidos frontal (o sensores de luz) para que el robot interactúe dinámicamente con un objeto o mano que se le acerque (por ejemplo, retroceder si la mano se acerca demasiado o avanzar si se aleja).</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpyauha9-rf6rwuw7u</odePageId>
       <odeBlockId>20251219163328XJSRZP</odeBlockId>
       <blockName></blockName>
-      <iconName>edit_note</iconName>
+      <iconName>think</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -1314,18 +1486,21 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mopw0hcn-zpib9akjx</odePageId>
+          <odePageId>page-mpyauha9-rf6rwuw7u</odePageId>
           <odeBlockId>20251219163328XJSRZP</odeBlockId>
           <odeIdeviceId>20251206204152956KCF</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
-          <htmlView><![CDATA[<div class="exe-text-template">
-    <div class="exe-text-activity"><p>Se trata que el robot evite objetos que están a menos de 20 cm,si los objetos están  entre 20 y 30 cm el robot se para, y si los objetos están a más de 30 cm los persigue.</p>
-<p><img src="{{context_path}}/content/resources/20251206204152956KCF/algoritmo_reto_magico.svg" title="reto magico" width="459" height="566" alt="reto magico" /></p><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Ayuda" data-text-a="Ayuda" data-text-b="Ayuda"></div><div class="feedback js-feedback js-hidden" style="display: none;"><p>Código para ESERover:</p>
-<p><img src="{{context_path}}/content/resources/20251206204152956KCF/reto_magico.png" title="reto magico" width="600" height="533" alt="reto magico" /></p>
-<p>Código para Cutebot:</p>
-<p><img src="{{context_path}}/content/resources/reto_magico_cutebot.png" title="reto magico cutebot" width="600" height="532" alt="reto magico cutebot" /></p></div></div>
-</div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"20251206204152956KCF","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><p>Se trata que el robot evite objetos que están a menos de 20 cm,si los objetos están  entre 20 y 30 cm el robot se para, y si los objetos están a más de 30 cm los persigue.</p>\n<p><img src=\"{{context_path}}/content/resources/20251206204152956KCF/algoritmo_reto_magico.svg\" title=\"reto magico\" width=\"459\" height=\"566\" alt=\"reto magico\" /></p><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Ayuda\" data-text-a=\"Ayuda\" data-text-b=\"Ayuda\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><p>Código para ESERover:</p>\n<p><img src=\"{{context_path}}/content/resources/20251206204152956KCF/reto_magico.png\" title=\"reto magico\" width=\"600\" height=\"533\" alt=\"reto magico\" /></p>\n<p>Código para Cutebot:</p>\n<p><img src=\"{{context_path}}/content/resources/reto_magico_cutebot.png\" title=\"reto magico cutebot\" width=\"600\" height=\"532\" alt=\"reto magico cutebot\" /></p></div></div>","textFeedbackInput":"Ayuda","textFeedbackTextarea":"<p>Código para ESERover:</p>\n<p><img src=\"{{context_path}}/content/resources/20251206204152956KCF/reto_magico.png\" title=\"reto magico\" width=\"600\" height=\"533\" alt=\"reto magico\" /></p>\n<p>Código para Cutebot:</p>\n<p><img src=\"{{context_path}}/content/resources/reto_magico_cutebot.png\" title=\"reto magico cutebot\" width=\"600\" height=\"532\" alt=\"reto magico cutebot\" /></p>"}]]></jsonProperties>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>Se trata que el robot evite objetos que están a menos de 20 cm,si los objetos están&nbsp; entre 20 y 30 cm el robot se para, y si los objetos están a más de 30 cm los persigue.</p>
+<p><img src="{{context_path}}/content/resources/20251206204152956KCF/algoritmo_reto_magico.svg" title="reto magico" width="459" height="566" alt="reto magico"></p>
+            <div class="iDevice_buttons feedback-button js-required">
+                <input type="button" class="feedbacktooglebutton" value="Ayuda">
+            </div>
+            <div class="feedback js-feedback js-hidden"><p>Código:</p>
+<p><img src="{{context_path}}/content/resources/20251206204152956KCF/reto_magico.png" title="reto magico" width="600" height="533" alt="reto magico" /></p></div><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20251206204152956KCF","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Se trata que el robot evite objetos que están a menos de 20 cm,si los objetos están  entre 20 y 30 cm el robot se para, y si los objetos están a más de 30 cm los persigue.</p>\n<p><img src=\"{{context_path}}/content/resources/20251206204152956KCF/algoritmo_reto_magico.svg\" title=\"reto magico\" width=\"459\" height=\"566\" alt=\"reto magico\" /></p>","textFeedbackInput":"Ayuda","textFeedbackTextarea":"<p>Código:</p>\n<p><img src=\"{{context_path}}/content/resources/20251206204152956KCF/reto_magico.png\" title=\"reto magico\" width=\"600\" height=\"533\" alt=\"reto magico\" /></p>"}]]></jsonProperties>
           <odeComponentsOrder>1</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -1347,8 +1522,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mopw0hcp-eaf96ubw5</odePageId>
-  <odeParentPageId>page-mopw0hci-p4je20r66</odeParentPageId>
+  <odePageId>page-mpyauhab-guonx661c</odePageId>
+  <odeParentPageId>page-mpyauha4-5qk07be4n</odeParentPageId>
   <pageName>Esquiva Rocas</pageName>
   <odeNavStructureOrder>3</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1391,10 +1566,67 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mopw0hcp-eaf96ubw5</odePageId>
+      <odePageId>page-mpyauhab-guonx661c</odePageId>
+      <odeBlockId>block-1779450627249-6rqy100xr</odeBlockId>
+      <blockName>Esquiva rocas</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpyauhab-guonx661c</odePageId>
+          <odeBlockId>block-1779450627249-6rqy100xr</odeBlockId>
+          <odeIdeviceId>idevice-1779450627248-9q8se781u</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">El ESEROver se adentra en un campo de escombros basálticos eyectados por el impacto de un antiguo meteorito. La señal de radio de la Tierra tarda más de 10 minutos en llegar, por lo que el control manual es imposible. El rover debe activar su piloto automático de navegación autónoma para sortear los peñascos y no quedar atrapado para siempre.</p>
+<p style="text-align: justify;"><br />El Reto Técnico: Navegación autónoma con evasión de obstáculos. Al detectar un objeto a menos de 15-20 cm con el sensor ultrasónico, el Cutebot debe detenerse, retroceder, girar hacia una zona despejada y continuar su marcha.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779450627248-9q8se781u","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">El ESEROver se adentra en un campo de escombros basálticos eyectados por el impacto de un antiguo meteorito. La señal de radio de la Tierra tarda más de 10 minutos en llegar, por lo que el control manual es imposible. El rover debe activar su piloto automático de navegación autónoma para sortear los peñascos y no quedar atrapado para siempre.</p>\n<p style=\"text-align: justify;\"><br />El Reto Técnico: Navegación autónoma con evasión de obstáculos. Al detectar un objeto a menos de 15-20 cm con el sensor ultrasónico, el Cutebot debe detenerse, retroceder, girar hacia una zona despejada y continuar su marcha.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpyauhab-guonx661c</odePageId>
       <odeBlockId>20251219163328RONTWP</odeBlockId>
       <blockName></blockName>
-      <iconName>edit_note</iconName>
+      <iconName>think</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -1420,17 +1652,20 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mopw0hcp-eaf96ubw5</odePageId>
+          <odePageId>page-mpyauhab-guonx661c</odePageId>
           <odeBlockId>20251219163328RONTWP</odeBlockId>
           <odeIdeviceId>20251204160021925IJ8</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
-          <htmlView><![CDATA[<div class="exe-text-template">
-    <div class="exe-text-activity"><p>El robot debe evitar los objetos en el planeta, por ejemplo rocas. Cada vez que esquiva debe hacerlo en un sentido aleatorio.</p><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Ayuda" data-text-a="Ayuda" data-text-b="Ayuda"></div><div class="feedback js-feedback js-hidden" style="display: none;"><p>Código ESERover:</p>
-<p><img src="{{context_path}}/content/resources/20251204160021925IJ8/reto_esquiva_1.png" title="reto esquiva" width="600" height="796" alt="reto esquiva" /><br /></p>
-<p>Código Cutebot:</p>
-<p><img src="{{context_path}}/content/resources/reto_esquiva_cutebot.png" title="reto esquiva cutebot" width="600" height="790" alt="reto esquiva cutebot" /></p></div></div>
-</div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"20251204160021925IJ8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><p>El robot debe evitar los objetos en el planeta, por ejemplo rocas. Cada vez que esquiva debe hacerlo en un sentido aleatorio.</p><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Ayuda\" data-text-a=\"Ayuda\" data-text-b=\"Ayuda\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><p>Código ESERover:</p>\n<p><img src=\"{{context_path}}/content/resources/20251204160021925IJ8/reto_esquiva_1.png\" title=\"reto esquiva\" width=\"600\" height=\"796\" alt=\"reto esquiva\" /><br /></p>\n<p>Código Cutebot:</p>\n<p><img src=\"{{context_path}}/content/resources/reto_esquiva_cutebot.png\" title=\"reto esquiva cutebot\" width=\"600\" height=\"790\" alt=\"reto esquiva cutebot\" /></p></div></div>","textFeedbackInput":"Ayuda","textFeedbackTextarea":"<p>Código ESERover:</p>\n<p><img src=\"{{context_path}}/content/resources/20251204160021925IJ8/reto_esquiva_1.png\" title=\"reto esquiva\" width=\"600\" height=\"796\" alt=\"reto esquiva\" /><br /></p>\n<p>Código Cutebot:</p>\n<p><img src=\"{{context_path}}/content/resources/reto_esquiva_cutebot.png\" title=\"reto esquiva cutebot\" width=\"600\" height=\"790\" alt=\"reto esquiva cutebot\" /></p>"}]]></jsonProperties>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>El robot debe evitar los objetos en el planeta, por ejemplo rocas. Cada vez que esquiva debe hacerlo en un sentido aleatorio.</p>
+            <div class="iDevice_buttons feedback-button js-required">
+                <input type="button" class="feedbacktooglebutton" value="Ayuda">
+            </div>
+            <div class="feedback js-feedback js-hidden"><p>Código:</p>
+<p><img src="{{context_path}}/content/resources/20251204160021925IJ8/reto_esquiva_1.png" title="reto esquiva" width="600" height="796" alt="reto esquiva" /><br /></p></div><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20251204160021925IJ8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El robot debe evitar los objetos en el planeta, por ejemplo rocas. Cada vez que esquiva debe hacerlo en un sentido aleatorio.</p>","textFeedbackInput":"Ayuda","textFeedbackTextarea":"<p>Código:</p>\n<p><img src=\"{{context_path}}/content/resources/20251204160021925IJ8/reto_esquiva_1.png\" title=\"reto esquiva\" width=\"600\" height=\"796\" alt=\"reto esquiva\" /><br /></p>"}]]></jsonProperties>
           <odeComponentsOrder>1</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -1452,8 +1687,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mopw0hcr-j2aici4ev</odePageId>
-  <odeParentPageId>page-mopw0hci-p4je20r66</odeParentPageId>
+  <odePageId>page-mpyauhac-m9s8mt98p</odePageId>
+  <odeParentPageId>page-mpyauha4-5qk07be4n</odeParentPageId>
   <pageName>Encerrado</pageName>
   <odeNavStructureOrder>4</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1496,10 +1731,67 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mopw0hcr-j2aici4ev</odePageId>
+      <odePageId>page-mpyauhac-m9s8mt98p</odePageId>
+      <odeBlockId>block-1779450905249-5ppiaowan</odeBlockId>
+      <blockName>ESEROver en zona segura</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpyauhac-m9s8mt98p</odePageId>
+          <odeBlockId>block-1779450905249-5ppiaowan</odeBlockId>
+          <odeIdeviceId>idevice-1779450905242-xzyw3t75w</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Se aproxima una tormenta de polvo global masiva. El ESEROver debe resguardarse dentro del perímetro de seguridad blindado del campamento base (delimitado por una línea en el tapete). Si el rover cruza la línea exterior, los paneles solares se cubrirán de arena. Debe moverse patrullando y manteniéndose estrictamente dentro de la zona segura.</p>
+<p style="text-align: justify;"><br />El Reto Técnico: El robot se mueve dentro de un recinto cerrado por líneas negras o blancas. Al detectar el borde con los sensores de suelo, debe retroceder y girar aleatoriamente hacia el interior para no salir jamás del perímetro.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779450905242-xzyw3t75w","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Se aproxima una tormenta de polvo global masiva. El ESEROver debe resguardarse dentro del perímetro de seguridad blindado del campamento base (delimitado por una línea en el tapete). Si el rover cruza la línea exterior, los paneles solares se cubrirán de arena. Debe moverse patrullando y manteniéndose estrictamente dentro de la zona segura.</p>\n<p style=\"text-align: justify;\"><br />El Reto Técnico: El robot se mueve dentro de un recinto cerrado por líneas negras o blancas. Al detectar el borde con los sensores de suelo, debe retroceder y girar aleatoriamente hacia el interior para no salir jamás del perímetro.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpyauhac-m9s8mt98p</odePageId>
       <odeBlockId>20251219163328UQNVOQ</odeBlockId>
       <blockName></blockName>
-      <iconName>edit_note</iconName>
+      <iconName>think</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -1525,17 +1817,20 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mopw0hcr-j2aici4ev</odePageId>
+          <odePageId>page-mpyauhac-m9s8mt98p</odePageId>
           <odeBlockId>20251219163328UQNVOQ</odeBlockId>
           <odeIdeviceId>20251207103957711MWE</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
-          <htmlView><![CDATA[<div class="exe-text-template">
-    <div class="exe-text-activity"><p>El robot quedará encerrado en una superficie delimitada por líneas o áreas de color blanco. Sólo se movera por superficies de color oscuro o negro sin poder atravesar superficies o líneas blancas.</p><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Ayuda" data-text-a="Ayuda" data-text-b="Ayuda"></div><div class="feedback js-feedback js-hidden" style="display: none;"><p>Código ESERover:</p>
-<p><img src="{{context_path}}/content/resources/20251207103957711MWE/reto_encerrado.png" title="reto encerrado" width="600" height="431" alt="reto encerrado" /></p>
-<p>Código Cutebot:</p>
-<p><img src="{{context_path}}/content/resources/reto_encerrado_cutebot.png" title="Reto encerrado cutebot" width="600" height="430" alt="Reto encerrado cutebot" /></p></div></div>
-</div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"20251207103957711MWE","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><p>El robot quedará encerrado en una superficie delimitada por líneas o áreas de color blanco. Sólo se movera por superficies de color oscuro o negro sin poder atravesar superficies o líneas blancas.</p><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Ayuda\" data-text-a=\"Ayuda\" data-text-b=\"Ayuda\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><p>Código ESERover:</p>\n<p><img src=\"{{context_path}}/content/resources/20251207103957711MWE/reto_encerrado.png\" title=\"reto encerrado\" width=\"600\" height=\"431\" alt=\"reto encerrado\" /></p>\n<p>Código Cutebot:</p>\n<p><img src=\"{{context_path}}/content/resources/reto_encerrado_cutebot.png\" title=\"Reto encerrado cutebot\" width=\"600\" height=\"430\" alt=\"Reto encerrado cutebot\" /></p></div></div>","textFeedbackInput":"Ayuda","textFeedbackTextarea":"<p>Código ESERover:</p>\n<p><img src=\"{{context_path}}/content/resources/20251207103957711MWE/reto_encerrado.png\" title=\"reto encerrado\" width=\"600\" height=\"431\" alt=\"reto encerrado\" /></p>\n<p>Código Cutebot:</p>\n<p><img src=\"{{context_path}}/content/resources/reto_encerrado_cutebot.png\" title=\"Reto encerrado cutebot\" width=\"600\" height=\"430\" alt=\"Reto encerrado cutebot\" /></p>"}]]></jsonProperties>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>El robot quedará encerrado en una superficie delimitada por líneas o áreas de color negro.</p>
+            <div class="iDevice_buttons feedback-button js-required">
+                <input type="button" class="feedbacktooglebutton" value="Ayuda">
+            </div>
+            <div class="feedback js-feedback js-hidden"><p>Código:</p>
+<p><img src="{{context_path}}/content/resources/20251207103957711MWE/reto_encerrado.png" title="reto encerrado" width="600" height="431" alt="reto encerrado" /></p></div><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20251207103957711MWE","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El robot quedará encerrado en una superficie delimitada por líneas o áreas de color negro.</p>","textFeedbackInput":"Ayuda","textFeedbackTextarea":"<p>Código:</p>\n<p><img src=\"{{context_path}}/content/resources/20251207103957711MWE/reto_encerrado.png\" title=\"reto encerrado\" width=\"600\" height=\"431\" alt=\"reto encerrado\" /></p>"}]]></jsonProperties>
           <odeComponentsOrder>1</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -1557,8 +1852,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mopw0hcs-cgup5a5x5</odePageId>
-  <odeParentPageId>page-mopw0hci-p4je20r66</odeParentPageId>
+  <odePageId>page-mpyauhad-8suiz6b0q</odePageId>
+  <odeParentPageId>page-mpyauha4-5qk07be4n</odeParentPageId>
   <pageName>Siguelineas</pageName>
   <odeNavStructureOrder>5</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1601,10 +1896,67 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mopw0hcs-cgup5a5x5</odePageId>
+      <odePageId>page-mpyauhad-8suiz6b0q</odePageId>
+      <odeBlockId>block-1779450990292-6y9f0okk8</odeBlockId>
+      <blockName>Siguiendo la ruta</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpyauhad-8suiz6b0q</odePageId>
+          <odeBlockId>block-1779450990292-6y9f0okk8</odeBlockId>
+          <odeIdeviceId>idevice-1779450990290-gis31hsfn</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Para optimizar los recursos de la colonia, se ha establecido una "Ruta Logística Automatizada" entre el módulo de energía solar, la planta extractora de oxígeno (MOXIE) y el hábitat diseñado para Moon Camp. El ESEROver operará como un camión de suministros autónomo de alta precisión transportando cargamento vital a lo largo de esta autopista marcada.</p>
+<p style="text-align: justify;"><br />El Reto Técnico: Programar un algoritmo de rastreo de líneas (Line Follower) preciso utilizando los dos sensores infrarrojos inferiores del Cutebot para recorrer la pista sin salirse.<br /> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779450990290-gis31hsfn","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Para optimizar los recursos de la colonia, se ha establecido una \"Ruta Logística Automatizada\" entre el módulo de energía solar, la planta extractora de oxígeno (MOXIE) y el hábitat diseñado para Moon Camp. El ESEROver operará como un camión de suministros autónomo de alta precisión transportando cargamento vital a lo largo de esta autopista marcada.</p>\n<p style=\"text-align: justify;\"><br />El Reto Técnico: Programar un algoritmo de rastreo de líneas (Line Follower) preciso utilizando los dos sensores infrarrojos inferiores del Cutebot para recorrer la pista sin salirse.<br /> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpyauhad-8suiz6b0q</odePageId>
       <odeBlockId>20251219163328ZAZUZU</odeBlockId>
       <blockName></blockName>
-      <iconName>edit_note</iconName>
+      <iconName>think</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -1630,18 +1982,21 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mopw0hcs-cgup5a5x5</odePageId>
+          <odePageId>page-mpyauhad-8suiz6b0q</odePageId>
           <odeBlockId>20251219163328ZAZUZU</odeBlockId>
           <odeIdeviceId>2025120710433718197R</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
-          <htmlView><![CDATA[<div class="exe-text-template">
-    <div class="exe-text-activity"><p>El robot debe seguir la línea negra de nuestro planeta y pararse cuando detecte los dos sensores de suelo color blanco.</p>
-<p><img src="{{context_path}}/content/resources/2025120710433718197R/algoritmo_siguelineas.svg" title="siguelineas" width="500" height="707" alt="siguelineas" /></p><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Ayuda" data-text-a="Ayuda" data-text-b="Ayuda"></div><div class="feedback js-feedback js-hidden" style="display: none;"><p>Código ESERover:</p>
-<p><img src="{{context_path}}/content/resources/2025120710433718197R/reto_siguelineas.png" title="siguelineas" width="600" height="517" alt="siguelineas" /></p>
-<p>Código Cutebot:</p>
-<p><img src="{{context_path}}/content/resources/reto_siguelineas_cutebot.png" title="Reto siguelineas cutebot" width="600" height="512" alt="Reto siguelineas cutebot" /></p></div></div>
-</div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"2025120710433718197R","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><p>El robot debe seguir la línea negra de nuestro planeta y pararse cuando detecte los dos sensores de suelo color blanco.</p>\n<p><img src=\"{{context_path}}/content/resources/2025120710433718197R/algoritmo_siguelineas.svg\" title=\"siguelineas\" width=\"500\" height=\"707\" alt=\"siguelineas\" /></p><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Ayuda\" data-text-a=\"Ayuda\" data-text-b=\"Ayuda\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><p>Código ESERover:</p>\n<p><img src=\"{{context_path}}/content/resources/2025120710433718197R/reto_siguelineas.png\" title=\"siguelineas\" width=\"600\" height=\"517\" alt=\"siguelineas\" /></p>\n<p>Código Cutebot:</p>\n<p><img src=\"{{context_path}}/content/resources/reto_siguelineas_cutebot.png\" title=\"Reto siguelineas cutebot\" width=\"600\" height=\"512\" alt=\"Reto siguelineas cutebot\" /></p></div></div>","textFeedbackInput":"Ayuda","textFeedbackTextarea":"<p>Código ESERover:</p>\n<p><img src=\"{{context_path}}/content/resources/2025120710433718197R/reto_siguelineas.png\" title=\"siguelineas\" width=\"600\" height=\"517\" alt=\"siguelineas\" /></p>\n<p>Código Cutebot:</p>\n<p><img src=\"{{context_path}}/content/resources/reto_siguelineas_cutebot.png\" title=\"Reto siguelineas cutebot\" width=\"600\" height=\"512\" alt=\"Reto siguelineas cutebot\" /></p>"}]]></jsonProperties>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>El robot debe seguir la línea negra de nuestro planeta y pararse cuando detecte los dos sensores de suelo color blanco.</p>
+<p><img src="{{context_path}}/content/resources/2025120710433718197R/algoritmo_siguelineas.svg" title="siguelineas" width="500" height="707" alt="siguelineas"></p>
+            <div class="iDevice_buttons feedback-button js-required">
+                <input type="button" class="feedbacktooglebutton" value="Ayuda">
+            </div>
+            <div class="feedback js-feedback js-hidden"><p>Código:</p>
+<p><img src="{{context_path}}/content/resources/2025120710433718197R/reto_siguelineas.png" title="siguelineas" width="600" height="517" alt="siguelineas" /></p></div><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"2025120710433718197R","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El robot debe seguir la línea negra de nuestro planeta y pararse cuando detecte los dos sensores de suelo color blanco.</p>\n<p><img src=\"{{context_path}}/content/resources/2025120710433718197R/algoritmo_siguelineas.svg\" title=\"siguelineas\" width=\"500\" height=\"707\" alt=\"siguelineas\" /></p>","textFeedbackInput":"Ayuda","textFeedbackTextarea":"<p>Código:</p>\n<p><img src=\"{{context_path}}/content/resources/2025120710433718197R/reto_siguelineas.png\" title=\"siguelineas\" width=\"600\" height=\"517\" alt=\"siguelineas\" /></p>"}]]></jsonProperties>
           <odeComponentsOrder>1</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -1663,8 +2018,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mopw0hcu-jpun91wa6</odePageId>
-  <odeParentPageId>page-mopw0hci-p4je20r66</odeParentPageId>
+  <odePageId>page-mpyauhaf-ua483xy8z</odePageId>
+  <odeParentPageId>page-mpyauha4-5qk07be4n</odeParentPageId>
   <pageName>Control remoto</pageName>
   <odeNavStructureOrder>6</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1707,10 +2062,67 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mopw0hcu-jpun91wa6</odePageId>
+      <odePageId>page-mpyauhaf-ua483xy8z</odePageId>
+      <odeBlockId>block-1779451127594-u57cwf6ii</odeBlockId>
+      <blockName>Control remoto</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpyauhaf-ua483xy8z</odePageId>
+          <odeBlockId>block-1779451127594-u57cwf6ii</odeBlockId>
+          <odeIdeviceId>idevice-1779451127593-jsi60q01t</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">El rover ha llegado al borde de un cañón extremadamente inestable lleno de muestras biológicas valiosas. La inteligencia artificial no es suficiente para esta peligrosa maniobra. Un astronauta, monitorizando la situación desde la estación orbital Gateway (o usando los mandos del hábitat principal), toma el control manual de emergencia para teledirigir el rover con precisión.</p>
+<p style="text-align: justify;"><br />El Reto Técnico: Programación de comunicación inalámbrica mediante dos placas. Una placa microsteamakers actúa como mando a distancia (usando sus botones o el acelerómetro para detectar la inclinación) y envía señales. La otra placa del Cutebot recibe los datos y ejecuta los comandos de movimiento en tiempo real.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779451127593-jsi60q01t","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">El rover ha llegado al borde de un cañón extremadamente inestable lleno de muestras biológicas valiosas. La inteligencia artificial no es suficiente para esta peligrosa maniobra. Un astronauta, monitorizando la situación desde la estación orbital Gateway (o usando los mandos del hábitat principal), toma el control manual de emergencia para teledirigir el rover con precisión.</p>\n<p style=\"text-align: justify;\"><br />El Reto Técnico: Programación de comunicación inalámbrica mediante dos placas. Una placa microsteamakers actúa como mando a distancia (usando sus botones o el acelerómetro para detectar la inclinación) y envía señales. La otra placa del Cutebot recibe los datos y ejecuta los comandos de movimiento en tiempo real.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpyauhaf-ua483xy8z</odePageId>
       <odeBlockId>20251219163328JELMWZ</odeBlockId>
       <blockName></blockName>
-      <iconName>edit_note</iconName>
+      <iconName>think</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -1736,20 +2148,23 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mopw0hcu-jpun91wa6</odePageId>
+          <odePageId>page-mpyauhaf-ua483xy8z</odePageId>
           <odeBlockId>20251219163328JELMWZ</odeBlockId>
           <odeIdeviceId>202512071047517907E6</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
-          <htmlView><![CDATA[<div class="exe-text-template">
-    <div class="exe-text-activity"><p>El robot es controlado de forma remota (radio bluetooth) por el giróscopo de otra placa microSTEAMakers.</p><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Ayuda" data-text-a="Ayuda" data-text-b="Ayuda"></div><div class="feedback js-feedback js-hidden" style="display: none;"><p>Código Robot (receptor) ESERover:</p>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>El robot es controlado de forma remota (radio bt) por el giróscopo de otra placa.</p>
+            <div class="iDevice_buttons feedback-button js-required">
+                <input type="button" class="feedbacktooglebutton" value="Ayuda">
+            </div>
+            <div class="feedback js-feedback js-hidden"><p>Código Robot (receptor):</p>
 <p><img src="{{context_path}}/content/resources/202512071047517907E6/reto_radio_receptor_1.png" title="receptor" width="600" height="859" alt="receptor" /></p>
-<p>Código Robot (receptor) Cutebot:</p>
-<p><img src="{{context_path}}/content/resources/reto_radio_receptor_cutebot.png" title="reto receptor cutebot" width="600" height="859" alt="reto receptor cutebot" /></p>
 <p>Código placa emisora:</p>
 <p><img src="{{context_path}}/content/resources/202512071047517907E6/reto_radio_emisor.png" title="emisor" width="600" height="436" alt="emisor" /></p>
-<p><br /></p></div></div>
-</div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"202512071047517907E6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><p>El robot es controlado de forma remota (radio bluetooth) por el giróscopo de otra placa microSTEAMakers.</p><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Ayuda\" data-text-a=\"Ayuda\" data-text-b=\"Ayuda\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><p>Código Robot (receptor) ESERover:</p>\n<p><img src=\"{{context_path}}/content/resources/202512071047517907E6/reto_radio_receptor_1.png\" title=\"receptor\" width=\"600\" height=\"859\" alt=\"receptor\" /></p>\n<p>Código Robot (receptor) Cutebot:</p>\n<p><img src=\"{{context_path}}/content/resources/reto_radio_receptor_cutebot.png\" title=\"reto receptor cutebot\" width=\"600\" height=\"859\" alt=\"reto receptor cutebot\" /></p>\n<p>Código placa emisora:</p>\n<p><img src=\"{{context_path}}/content/resources/202512071047517907E6/reto_radio_emisor.png\" title=\"emisor\" width=\"600\" height=\"436\" alt=\"emisor\" /></p>\n<p><br /></p></div></div>","textFeedbackInput":"Ayuda","textFeedbackTextarea":"<p>Código Robot (receptor) ESERover:</p>\n<p><img src=\"{{context_path}}/content/resources/202512071047517907E6/reto_radio_receptor_1.png\" title=\"receptor\" width=\"600\" height=\"859\" alt=\"receptor\" /></p>\n<p>Código Robot (receptor) Cutebot:</p>\n<p><img src=\"{{context_path}}/content/resources/reto_radio_receptor_cutebot.png\" title=\"reto receptor cutebot\" width=\"600\" height=\"859\" alt=\"reto receptor cutebot\" /></p>\n<p>Código placa emisora:</p>\n<p><img src=\"{{context_path}}/content/resources/202512071047517907E6/reto_radio_emisor.png\" title=\"emisor\" width=\"600\" height=\"436\" alt=\"emisor\" /></p>\n<p><br /></p>"}]]></jsonProperties>
+<p></p></div><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"202512071047517907E6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El robot es controlado de forma remota (radio bt) por el giróscopo de otra placa.</p>","textFeedbackInput":"Ayuda","textFeedbackTextarea":"<p>Código Robot (receptor):</p>\n<p><img src=\"{{context_path}}/content/resources/202512071047517907E6/reto_radio_receptor_1.png\" title=\"receptor\" width=\"600\" height=\"859\" alt=\"receptor\" /></p>\n<p>Código placa emisora:</p>\n<p><img src=\"{{context_path}}/content/resources/202512071047517907E6/reto_radio_emisor.png\" title=\"emisor\" width=\"600\" height=\"436\" alt=\"emisor\" /></p>\n<p></p>"}]]></jsonProperties>
           <odeComponentsOrder>1</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -1771,14 +2186,14 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mopw0hcv-vk86w13kn</odePageId>
+  <odePageId>page-mpyauhai-1c7wz8bob</odePageId>
   <odeParentPageId></odeParentPageId>
-  <pageName>Robot IoT (Cutebot)</pageName>
+  <pageName>ESEROVER IoT</pageName>
   <odeNavStructureOrder>3</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
-      <value>Robot IoT (Cutebot)</value>
+      <value>ESEROVER IoT</value>
     </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>visibility</key>
@@ -1798,20 +2213,20 @@
     </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>titlePage</key>
-      <value>Robot IoT (Cutebot)</value>
+      <value>ESEROVER IoT</value>
     </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>titleNode</key>
-      <value></value>
+      <value>ESEROVER IoT</value>
     </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mopw0hcv-vk86w13kn</odePageId>
-      <odeBlockId>20251124174722EWQWER</odeBlockId>
+      <odePageId>page-mpyauhai-1c7wz8bob</odePageId>
+      <odeBlockId>block-1779560235744-md9e33f1n</odeBlockId>
       <blockName></blockName>
-      <iconName>description</iconName>
-      <odePagStructureOrder>1</odePagStructureOrder>
+      <iconName></iconName>
+      <odePagStructureOrder>176</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
           <key>visibility</key>
@@ -1836,13 +2251,15 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mopw0hcv-vk86w13kn</odePageId>
-          <odeBlockId>20251124174722EWQWER</odeBlockId>
-          <odeIdeviceId>20251121152103NCKZRC</odeIdeviceId>
+          <odePageId>page-mpyauhai-1c7wz8bob</odePageId>
+          <odeBlockId>block-1779560235744-md9e33f1n</odeBlockId>
+          <odeIdeviceId>idevice-1779560235745-zjlp0058l</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
-          <htmlView><![CDATA[<p>Vamos a gobernar por varios métodos de IoT el robot Cutebot controlado por una placa microSTEAMakers y programado con Microblocks. Se podría hacer con otros robots de manera similar (3D Bot, Maqueen, etc).</p>
-<p><img src="{{context_path}}/content/resources/20251204113734FOORMU/logo_robot.png" alt="logo" title="logo" width="400" height="400" /></p>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"20251121152103NCKZRC","textInfoDurationInput":"","textInfoParticipantsInput":"","textInfoDurationTextInput":"","textInfoParticipantsTextInput":"","textTextarea":"<p>Vamos a gobernar por varios métodos de IoT el robot Cutebot controlado por una placa microSTEAMakers y programado con Microblocks. Se podría hacer con otros robots de manera similar (3D Bot, Maqueen, etc).</p>\n<p><img src=\"{{context_path}}/content/resources/20251204113734FOORMU/logo_robot.png\" alt=\"logo\" title=\"logo\" width=\"400\" height=\"400\" /></p>","textFeedbackInput":"","textFeedbackTextarea":""}]]></jsonProperties>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Internet de las Cosas (Internet of Things), IoT, hace referencia a objetos o elementos conectados a Internet, bien para que vuelquen información hacia la red o bien para que sean controlados desde la misma.</p>
+<p><img src="{{context_path}}/content/resources/20251204113734FOORMU/logo_robot.png" alt="logo" title="logo" width="500" height="500" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779560235745-zjlp0058l","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Internet de las Cosas (Internet of Things), IoT, hace referencia a objetos o elementos conectados a Internet, bien para que vuelquen información hacia la red o bien para que sean controlados desde la misma.</p>\n<p><img src=\"{{context_path}}/content/resources/20251204113734FOORMU/logo_robot.png\" alt=\"logo\" title=\"logo\" width=\"500\" height=\"500\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>1</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -1864,8 +2281,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mopw0hcx-gutf81fz3</odePageId>
-  <odeParentPageId>page-mopw0hcv-vk86w13kn</odeParentPageId>
+  <odePageId>page-mpyauhak-7ih8d7jw5</odePageId>
+  <odeParentPageId>page-mpyauhai-1c7wz8bob</odeParentPageId>
   <pageName>MQTT</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1895,15 +2312,15 @@
     </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>titleNode</key>
-      <value></value>
+      <value>MQTT</value>
     </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mopw0hcx-gutf81fz3</odePageId>
+      <odePageId>page-mpyauhak-7ih8d7jw5</odePageId>
       <odeBlockId>20251124174722HDVZJL</odeBlockId>
       <blockName></blockName>
-      <iconName>description</iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -1929,13 +2346,15 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mopw0hcx-gutf81fz3</odePageId>
+          <odePageId>page-mpyauhak-7ih8d7jw5</odePageId>
           <odeBlockId>20251124174722HDVZJL</odeBlockId>
           <odeIdeviceId>20251121152103JRMUJG</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
-          <htmlView><![CDATA[<p>En este apartado explicaremos como tener un sistema o robot gobernado a través de protocolo MQTT y programado con Microblocks. En nuestro caso el sistema será un robot Cutebot.</p>
-<p><span style="font-size: 36pt;"><span style="font-family: helvetica, arial, sans-serif;"><strong>MQTT</strong></span>+<img src="{{context_path}}/content/resources/20251204113734FPAICT/MicroBlocks.svg" alt="microblocks" title="microblocks" width="252" height="136" style="vertical-align: middle;" />+<img src="{{context_path}}/content/resources/20251121152103JRMUJG/cutebot.jpg" alt="cutebot" title="cutebot" width="150" height="150" style="vertical-align: middle;" /></span></p>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"20251121152103JRMUJG","textInfoDurationInput":"","textInfoParticipantsInput":"","textInfoDurationTextInput":"","textInfoParticipantsTextInput":"","textTextarea":"<p>En este apartado explicaremos como tener un sistema o robot gobernado a través de protocolo MQTT y programado con Microblocks. En nuestro caso el sistema será un robot Cutebot.</p>\n<p><span style=\"font-size: 36pt;\"><span style=\"font-family: helvetica, arial, sans-serif;\"><strong>MQTT</strong></span>+<img src=\"{{context_path}}/content/resources/20251204113734FPAICT/MicroBlocks.svg\" alt=\"microblocks\" title=\"microblocks\" width=\"252\" height=\"136\" style=\"vertical-align: middle;\" />+<img src=\"{{context_path}}/content/resources/20251121152103JRMUJG/cutebot.jpg\" alt=\"cutebot\" title=\"cutebot\" width=\"150\" height=\"150\" style=\"vertical-align: middle;\" /></span></p>","textFeedbackInput":"","textFeedbackTextarea":""}]]></jsonProperties>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este apartado explicaremos como tener un sistema o robot gobernado a través de protocolo MQTT y programado con Microblocks. En nuestro caso el sistema será la placa microSTEAMakers que gobierna al robot ESEROver.</p>
+<p><span style="font-size: 36pt;"><span style="font-family: helvetica, arial, sans-serif;"><strong>MQTT</strong></span>+<img src="{{context_path}}/content/resources/20251204113734FPAICT/MicroBlocks.svg" alt="microblocks" title="microblocks" width="252" height="136" style="vertical-align: middle;" /></span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20251121152103JRMUJG","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este apartado explicaremos como tener un sistema o robot gobernado a través de protocolo MQTT y programado con Microblocks. En nuestro caso el sistema será la placa microSTEAMakers que gobierna al robot ESEROver.</p>\n<p><span style=\"font-size: 36pt;\"><span style=\"font-family: helvetica, arial, sans-serif;\"><strong>MQTT</strong></span>+<img src=\"{{context_path}}/content/resources/20251204113734FPAICT/MicroBlocks.svg\" alt=\"microblocks\" title=\"microblocks\" width=\"252\" height=\"136\" style=\"vertical-align: middle;\" /></span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>1</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -1955,10 +2374,10 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mopw0hcx-gutf81fz3</odePageId>
+      <odePageId>page-mpyauhak-7ih8d7jw5</odePageId>
       <odeBlockId>block-1777734032966-l7z0m2xo0</odeBlockId>
       <blockName>¿Qué es MQTT?</blockName>
-      <iconName></iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -1984,7 +2403,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mopw0hcx-gutf81fz3</odePageId>
+          <odePageId>page-mpyauhak-7ih8d7jw5</odePageId>
           <odeBlockId>block-1777734032966-l7z0m2xo0</odeBlockId>
           <odeIdeviceId>20251121152103KNELDD</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -2010,10 +2429,10 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mopw0hcx-gutf81fz3</odePageId>
+      <odePageId>page-mpyauhak-7ih8d7jw5</odePageId>
       <odeBlockId>block-1777734360611-doas60crn</odeBlockId>
       <blockName>¿Qué es un servidor o broker mqtt?</blockName>
-      <iconName></iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>2</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -2039,7 +2458,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mopw0hcx-gutf81fz3</odePageId>
+          <odePageId>page-mpyauhak-7ih8d7jw5</odePageId>
           <odeBlockId>block-1777734360611-doas60crn</odeBlockId>
           <odeIdeviceId>idevice-1777734360610-ju6jlzo3e</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -2075,8 +2494,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mopw0hcy-ky1xm01lp</odePageId>
-  <odeParentPageId>page-mopw0hcx-gutf81fz3</odeParentPageId>
+  <odePageId>page-mpyauham-9hc74yzb3</odePageId>
+  <odeParentPageId>page-mpyauhak-7ih8d7jw5</odeParentPageId>
   <pageName>Brokers disponibles</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -2111,10 +2530,10 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mopw0hcy-ky1xm01lp</odePageId>
+      <odePageId>page-mpyauham-9hc74yzb3</odePageId>
       <odeBlockId>20251124174722FXDMEF</odeBlockId>
       <blockName>Brokers disponibles y gratuitos</blockName>
-      <iconName>description</iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -2140,19 +2559,36 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mopw0hcy-ky1xm01lp</odePageId>
+          <odePageId>page-mpyauham-9hc74yzb3</odePageId>
           <odeBlockId>20251124174722FXDMEF</odeBlockId>
           <odeIdeviceId>202511211634497196SR</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <ul>
-<li><strong>hivemq</strong>: mqtt-dashboard.com, sin usuario, con protocolo wss y puerto 8884.</li>
-<li><span style="text-decoration: line-through;"><strong>Broker Pedro Ruiz</strong>: 79.117.55.87, usuario: anonimo, contraseña: anonimo</span></li>
-<li><span style="text-decoration: line-through;"><strong>Broker Atigra Makers</strong>: atigramakers.ddns.net ó 79.112.27.194 , como no hay usuarios tanto el usuario como contraseña en blanco.</span></li>
-</ul>
-<p>Los brokers tachados a día de hoy no están operativos.</p>
+    <p>Como servicio gratuito de broker vamos a usar los de hivemq, usaremos los siguientes servidores en función si son para la placa o para un panel de control web:</p>
+<table border="1" class="exe-table" style="width: 48.9593%; margin-left: auto; margin-right: auto;">
+<tbody>
+<tr>
+<td style="width: 21.1111%; text-align: center;"><strong>Componente</strong></td>
+<td style="width: 43.6626%; text-align: center;"><strong>Servidor</strong></td>
+<td style="width: 35.2263%; text-align: center;"><strong>Puerto</strong></td>
+</tr>
+<tr>
+<td style="width: 21.1111%;">panel web</td>
+<td style="width: 43.6626%;">wss://broker.hivemq.com/mqtt</td>
+<td style="width: 35.2263%;">8884</td>
+</tr>
+<tr>
+<td style="width: 21.1111%;">placa</td>
+<td style="width: 43.6626%;">broker.hivemq.com</td>
+<td style="width: 35.2263%;">1883</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: left;">Las configuraciones son sin usuario predefinido, anónimo.</p>
+<p><img src="{{context_path}}/content/resources/broker.png" title="broker" width="650" height="127" alt="broker" /></p>
+<p><br /></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"202511211634497196SR","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li><strong>hivemq</strong>: mqtt-dashboard.com, sin usuario, con protocolo wss y puerto 8884.</li>\n<li><span style=\"text-decoration: line-through;\"><strong>Broker Pedro Ruiz</strong>: 79.117.55.87, usuario: anonimo, contraseña: anonimo</span></li>\n<li><span style=\"text-decoration: line-through;\"><strong>Broker Atigra Makers</strong>: atigramakers.ddns.net ó 79.112.27.194 , como no hay usuarios tanto el usuario como contraseña en blanco.</span></li>\n</ul>\n<p>Los brokers tachados a día de hoy no están operativos.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"202511211634497196SR","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Como servicio gratuito de broker vamos a usar los de hivemq, usaremos los siguientes servidores en función si son para la placa o para un panel de control web:</p>\n<table border=\"1\" class=\"exe-table\" style=\"width: 48.9593%; margin-left: auto; margin-right: auto;\">\n<tbody>\n<tr>\n<td style=\"width: 21.1111%; text-align: center;\"><strong>Componente</strong></td>\n<td style=\"width: 43.6626%; text-align: center;\"><strong>Servidor</strong></td>\n<td style=\"width: 35.2263%; text-align: center;\"><strong>Puerto</strong></td>\n</tr>\n<tr>\n<td style=\"width: 21.1111%;\">panel web</td>\n<td style=\"width: 43.6626%;\">wss://broker.hivemq.com/mqtt</td>\n<td style=\"width: 35.2263%;\">8884</td>\n</tr>\n<tr>\n<td style=\"width: 21.1111%;\">placa</td>\n<td style=\"width: 43.6626%;\">broker.hivemq.com</td>\n<td style=\"width: 35.2263%;\">1883</td>\n</tr>\n</tbody>\n</table>\n<p style=\"text-align: left;\">Las configuraciones son sin usuario predefinido, anónimo.</p>\n<p><img src=\"{{context_path}}/content/resources/broker.png\" title=\"broker\" width=\"650\" height=\"127\" alt=\"broker\" /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>1</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -2174,8 +2610,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mopw0hcz-c5xwdr0rv</odePageId>
-  <odeParentPageId>page-mopw0hcx-gutf81fz3</odeParentPageId>
+  <odePageId>page-mpyauhan-3f6s1w3bt</odePageId>
+  <odeParentPageId>page-mpyauhak-7ih8d7jw5</odeParentPageId>
   <pageName>Como crear Servidor MQTT (Broker)</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -2210,10 +2646,10 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mopw0hcz-c5xwdr0rv</odePageId>
+      <odePageId>page-mpyauhan-3f6s1w3bt</odePageId>
       <odeBlockId>20251124174722EXUVSP</odeBlockId>
       <blockName>Creación de Servidor o broker MQTT</blockName>
-      <iconName>description</iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -2239,7 +2675,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mopw0hcz-c5xwdr0rv</odePageId>
+          <odePageId>page-mpyauhan-3f6s1w3bt</odePageId>
           <odeBlockId>20251124174722EXUVSP</odeBlockId>
           <odeIdeviceId>20251121152103EMDUPR</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -2302,7 +2738,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mopw0hcz-c5xwdr0rv</odePageId>
+      <odePageId>page-mpyauhan-3f6s1w3bt</odePageId>
       <odeBlockId>20251124174722ZHHEAD</odeBlockId>
       <blockName>Router</blockName>
       <iconName>description</iconName>
@@ -2331,7 +2767,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mopw0hcz-c5xwdr0rv</odePageId>
+          <odePageId>page-mpyauhan-3f6s1w3bt</odePageId>
           <odeBlockId>20251124174722ZHHEAD</odeBlockId>
           <odeIdeviceId>20251121152103YDJQJM</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -2368,8 +2804,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mopw0hd1-61j7ufldo</odePageId>
-  <odeParentPageId>page-mopw0hcx-gutf81fz3</odeParentPageId>
+  <odePageId>page-mpyauhao-wpfh3ab0k</odePageId>
+  <odeParentPageId>page-mpyauhak-7ih8d7jw5</odeParentPageId>
   <pageName>Placa IoT</pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -2404,10 +2840,10 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mopw0hd1-61j7ufldo</odePageId>
+      <odePageId>page-mpyauhao-wpfh3ab0k</odePageId>
       <odeBlockId>20251124174722FIRFKS</odeBlockId>
       <blockName>microSTEAMakers</blockName>
-      <iconName>description</iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -2433,12 +2869,14 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mopw0hd1-61j7ufldo</odePageId>
+          <odePageId>page-mpyauhao-wpfh3ab0k</odePageId>
           <odeBlockId>20251124174722FIRFKS</odeBlockId>
           <odeIdeviceId>20251121152103RBKSQV</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
-          <htmlView><![CDATA[<p>La placa que se conectará al servidor MQTT será la microSTEAMakers, que es una ESP32 con formato micro:bit y por tanto con capacidades wifi. Está placa está programada con microblocks que tiene librerías wifi y mqtt.</p>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"20251121152103RBKSQV","textInfoDurationInput":"","textInfoParticipantsInput":"","textInfoDurationTextInput":"","textInfoParticipantsTextInput":"","textTextarea":"<p>La placa que se conectará al servidor MQTT será la microSTEAMakers, que es una ESP32 con formato micro:bit y por tanto con capacidades wifi. Está placa está programada con microblocks que tiene librerías wifi y mqtt.</p>","textFeedbackInput":"","textFeedbackTextarea":""}]]></jsonProperties>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La placa que se conectará al servidor MQTT será la microSTEAMakers, que es una ESP32 con formato micro:bit y por tanto con capacidades wifi. Está placa está programada con microblocks que tiene librerías wifi y mqtt.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20251121152103RBKSQV","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La placa que se conectará al servidor MQTT será la microSTEAMakers, que es una ESP32 con formato micro:bit y por tanto con capacidades wifi. Está placa está programada con microblocks que tiene librerías wifi y mqtt.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>1</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -2458,10 +2896,10 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mopw0hd1-61j7ufldo</odePageId>
+      <odePageId>page-mpyauhao-wpfh3ab0k</odePageId>
       <odeBlockId>20251124174722VXMBEU</odeBlockId>
       <blockName>Programa</blockName>
-      <iconName>description</iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -2487,16 +2925,16 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mopw0hd1-61j7ufldo</odePageId>
+          <odePageId>page-mpyauhao-wpfh3ab0k</odePageId>
           <odeBlockId>20251124174722VXMBEU</odeBlockId>
           <odeIdeviceId>20251121152103UGBBKX</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p>El programa se subscribe a temas publicados por un dashboard o panel con los controles de movimiento y publica temas relacionados con los sensores y sus valores cada 5 segundos. Debemos indicar los datos de conexión a la red wifi, y la ip pública o local de dónde está situado el broker (mosquitto en nuestro caso). Si el broker presenta usuarios deberemos indicar usuario y contraseña, y si es anónimo dejar esos datos en blanco.</p>
-<p><a href="{{context_path}}/content/resources/programas ubp/mqtt_mosquitto_cutebot2_casapedro2.ubp" title="mqtt_mosquitto_cutebot2_casapedro2.ubp" target="_blank" rel="noopener">Descarga de Programa</a></p>
-<p><img src="{{context_path}}/content/resources/20251121152103UGBBKX/programa_iot2_editado.png" alt="programa iot" title="programa iot" width="1000" height="1065" /></p>
+    <p>El programa se subscribe a temas publicados por un dashboard (panel web) con los controles de movimiento y publica temas relacionados con los sensores y sus valores a dicho panel.</p>
+<p><img src="{{context_path}}/content/resources/programa_mqtt_1.png" alt="programa mqtt" title="programa mqtt" width="1000" height="1135" /></p>
+<p>Debes añadir al programa el nombre de red de la wifi y la contraseña de la misma. </p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"20251121152103UGBBKX","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El programa se subscribe a temas publicados por un dashboard o panel con los controles de movimiento y publica temas relacionados con los sensores y sus valores cada 5 segundos. Debemos indicar los datos de conexión a la red wifi, y la ip pública o local de dónde está situado el broker (mosquitto en nuestro caso). Si el broker presenta usuarios deberemos indicar usuario y contraseña, y si es anónimo dejar esos datos en blanco.</p>\n<p><a href=\"{{context_path}}/content/resources/programas ubp/mqtt_mosquitto_cutebot2_casapedro2.ubp\" title=\"mqtt_mosquitto_cutebot2_casapedro2.ubp\" target=\"_blank\" rel=\"noopener\">Descarga de Programa</a></p>\n<p><img src=\"{{context_path}}/content/resources/20251121152103UGBBKX/programa_iot2_editado.png\" alt=\"programa iot\" title=\"programa iot\" width=\"1000\" height=\"1065\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"20251121152103UGBBKX","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El programa se subscribe a temas publicados por un dashboard (panel web) con los controles de movimiento y publica temas relacionados con los sensores y sus valores a dicho panel.</p>\n<p><img src=\"{{context_path}}/content/resources/programa_mqtt_1.png\" alt=\"programa mqtt\" title=\"programa mqtt\" width=\"1000\" height=\"1135\" /></p>\n<p>Debes añadir al programa el nombre de red de la wifi y la contraseña de la misma. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>1</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -2518,8 +2956,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mopw0hd3-ibhryen0b</odePageId>
-  <odeParentPageId>page-mopw0hcx-gutf81fz3</odeParentPageId>
+  <odePageId>page-mpyauhap-yfa03ycru</odePageId>
+  <odeParentPageId>page-mpyauhak-7ih8d7jw5</odeParentPageId>
   <pageName>Paneles o dashboards</pageName>
   <odeNavStructureOrder>3</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -2554,10 +2992,10 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mopw0hd3-ibhryen0b</odePageId>
-      <odeBlockId>20251124174722UISRQX</odeBlockId>
+      <odePageId>page-mpyauhap-yfa03ycru</odePageId>
+      <odeBlockId>20251219163328ZLUWTG</odeBlockId>
       <blockName></blockName>
-      <iconName>description</iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -2583,14 +3021,14 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mopw0hd3-ibhryen0b</odePageId>
-          <odeBlockId>20251124174722UISRQX</odeBlockId>
-          <odeIdeviceId>20251121152103ITXDPQ</odeIdeviceId>
+          <odePageId>page-mpyauhap-yfa03ycru</odePageId>
+          <odeBlockId>20251219163328ZLUWTG</odeBlockId>
+          <odeIdeviceId>20251204113734DQOBSR</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <p>Los paneles o dashboards son interfaces dónde realizar publicaciones y/o subscricciones de forma gráfica y sencilla. Diagmos que son un panel de control remoto de nuestro sistema.</p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"20251121152103ITXDPQ","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Los paneles o dashboards son interfaces dónde realizar publicaciones y/o subscricciones de forma gráfica y sencilla. Diagmos que son un panel de control remoto de nuestro sistema.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"20251204113734DQOBSR","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Los paneles o dashboards son interfaces dónde realizar publicaciones y/o subscricciones de forma gráfica y sencilla. Diagmos que son un panel de control remoto de nuestro sistema.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>1</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -2610,10 +3048,10 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mopw0hd3-ibhryen0b</odePageId>
-      <odeBlockId>20251124174722TDJVRH</odeBlockId>
+      <odePageId>page-mpyauhap-yfa03ycru</odePageId>
+      <odeBlockId>20251219163328VQVITK</odeBlockId>
       <blockName>Pará dispositivos móviles</blockName>
-      <iconName>description</iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -2639,16 +3077,16 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mopw0hd3-ibhryen0b</odePageId>
-          <odeBlockId>20251124174722TDJVRH</odeBlockId>
-          <odeIdeviceId>20251121152103XCBSYL</odeIdeviceId>
+          <odePageId>page-mpyauhap-yfa03ycru</odePageId>
+          <odeBlockId>20251219163328VQVITK</odeBlockId>
+          <odeIdeviceId>20251204113734IQILAO</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
-          <htmlView><![CDATA[<p>Las dos aplicaciones que hemos encontrado de cierta calidad son estas.</p>
+          <htmlView><![CDATA[<p>Las dos aplicaciones que hemos encontrado de cierta calidad son estas, y no pueden configurar usuario y contraseña, por tanto no conectarán con un servidor mosquitto con autenticación.</p>
 <ul>
 <li><a href="https://play.google.com/store/search?q=iot+mqtt+panel&c=apps&hl=es" target="_blank" rel="noopener">IoT MQTT Panel</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=net.routix.mqttdash&hl=es" target="_blank" rel="noopener">MQTT Dash</a></li>
 </ul>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"20251121152103XCBSYL","textInfoDurationInput":"","textInfoParticipantsInput":"","textInfoDurationTextInput":"","textInfoParticipantsTextInput":"","textTextarea":"<p>Las dos aplicaciones que hemos encontrado de cierta calidad son estas.</p>\n<ul>\n<li><a href=\"https://play.google.com/store/search?q=iot+mqtt+panel&c=apps&hl=es\" target=\"_blank\" rel=\"noopener\">IoT MQTT Panel</a></li>\n<li><a href=\"https://play.google.com/store/apps/details?id=net.routix.mqttdash&hl=es\" target=\"_blank\" rel=\"noopener\">MQTT Dash</a></li>\n</ul>","textFeedbackInput":"","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"20251204113734IQILAO","textInfoDurationInput":"","textInfoParticipantsInput":"","textInfoDurationTextInput":"","textInfoParticipantsTextInput":"","textTextarea":"<p>Las dos aplicaciones que hemos encontrado de cierta calidad son estas, y no pueden configurar usuario y contraseña, por tanto no conectarán con un servidor mosquitto con autenticación.</p>\n<ul>\n<li><a href=\"https://play.google.com/store/search?q=iot+mqtt+panel&c=apps&hl=es\" target=\"_blank\" rel=\"noopener\">IoT MQTT Panel</a></li>\n<li><a href=\"https://play.google.com/store/apps/details?id=net.routix.mqttdash&hl=es\" target=\"_blank\" rel=\"noopener\">MQTT Dash</a></li>\n</ul>","textFeedbackInput":"","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>1</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -2668,10 +3106,10 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mopw0hd3-ibhryen0b</odePageId>
-      <odeBlockId>20251124174722UOZYJB</odeBlockId>
+      <odePageId>page-mpyauhap-yfa03ycru</odePageId>
+      <odeBlockId>20251219163328CVSUCI</odeBlockId>
       <blockName>Paneles webs</blockName>
-      <iconName>description</iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>2</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -2697,23 +3135,17 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mopw0hd3-ibhryen0b</odePageId>
-          <odeBlockId>20251124174722UOZYJB</odeBlockId>
-          <odeIdeviceId>20251121152103KZXADT</odeIdeviceId>
+          <odePageId>page-mpyauhap-yfa03ycru</odePageId>
+          <odeBlockId>20251219163328CVSUCI</odeBlockId>
+          <odeIdeviceId>20251204113734BYQMJD</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p>También podemos realizar páginas webs en forma de paneles o dashborads para mandar topics y valores o para recibir topics y valores del robot. En concreto esta ha sido realizada a través de Gemini usando el siguiente prompt, y algunas mejoras posteriores:</p>
-<p><cite>Quiero hacer una página web que controle un robot a través de mqtt con un servidor o broker mqtt. La IP pública del servidor es mqtt-dashboard.com, sin usuario. El servidor responde a través del puerto wss 8884. En la web debe aparecer cuatro botones para publicar topics de movimiento del robot: botón adelante con topic movimiento valor adelante, botón atras con topic movimiento valor atras, botón derecha con topic movimiento valor derecha, botón izquierda con topic movimiento valor izquierda. Además deben representarse en tiempo real las gráficas de los sensores a la que la web está suscrito, en un sólo interfaz de gráficas. Los topics de las gráficas son: luz (topic sensores/luz), sonido (topic sensores/sonido), temperatura (topic sensores/temperatura), humedad (topic sensores/humedad) y distancia (topic sensores/distancia). Además debe tener un botón para guardado de datos en formato csv, y alguna animación que indique que está grabando datos.</cite></p>
-<p><cite>Para descargar la web haga clic con botón derecho sobre ella.</cite></p>
-<p><iframe width="100" height="600" style="width: 100%; height: 600px; border: 1px solid #ccc;" src="{{context_path}}/content/resources/prueba_dash2.html" data-mce-html="true"></iframe></p>
-<p><cite><img src="{{context_path}}/content/resources/dashboard.png" alt="" title="dashboard" width="800" height="482" /></cite></p>
-<p>Vídeo demostración del sistema funcionando a través de panel web:</p>
-<figure class="exe-figure exe-media position-center license-CC-BY-SA" style="width: 800px;"><iframe width="800" height="600" src="https://www.youtube.com/embed/MgywT_x_Bxs" allowfullscreen="allowfullscreen"></iframe>
-<figcaption class="figcaption"><span class="author">Pedro Ruiz</span>. <span class="title"><em>Robot IoT (Cutebot)</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/?lang=es" rel="license nofollow noopener" target="_blank" title="Creative Commons BY-SA">CC BY-SA</a><span class="sep">)</span></span></figcaption>
-</figure>
-<p><br /></p>
+    <p>También podemos realizar páginas webs en forma de paneles o dashborads para mandar topics y valores o para recibir topics y valores del robot. En concreto esta ha sido realizada a través de Claude usando el siguiente prompt.</p>
+<p style="text-align: justify;"><em>Quiero hacer una página web que controle un robot a través de mqtt con un servidor con dirección wss://broker.hivemq.com/mqtt con puerto 8884, y sin usuario. En la web debe aparecer cuatro botones para publicar topics de movimiento del robot: botón adelante con topic movimiento valor adelante, botón atras con topic movimiento valor atras, botón derecha con topic movimiento valor derecha, botón izquierda con topic movimiento valor izquierda. Además deben representarse en tiempo real las gráficas de los sensores a la que la web está suscrito, en un sólo interfaz de gráficas. Los topics de las gráficas son: luz (topic sensores/luz), sonido (topic sensores/sonido), temperatura (topic sensores/temperatura), humedad (topic sensores/humedad) y distancia (topic sensores/distancia). Además debe tener un botón para guardado de datos en formato csv, y alguna animación que indique que está grabando datos.</em></p>
+<p><cite><img src="{{context_path}}/content/resources/dashboard.png" alt="dashboard" title="dashboard" width="1000" height="690" /></cite></p>
+<p><a href="{{context_path}}/content/resources/robot_control_claude.html" target="_blank" title="" rel="noopener">Descarga de panel en formato html</a></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"20251121152103KZXADT","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>También podemos realizar páginas webs en forma de paneles o dashborads para mandar topics y valores o para recibir topics y valores del robot. En concreto esta ha sido realizada a través de Gemini usando el siguiente prompt, y algunas mejoras posteriores:</p>\n<p><cite>Quiero hacer una página web que controle un robot a través de mqtt con un servidor o broker mqtt. La IP pública del servidor es mqtt-dashboard.com, sin usuario. El servidor responde a través del puerto wss 8884. En la web debe aparecer cuatro botones para publicar topics de movimiento del robot: botón adelante con topic movimiento valor adelante, botón atras con topic movimiento valor atras, botón derecha con topic movimiento valor derecha, botón izquierda con topic movimiento valor izquierda. Además deben representarse en tiempo real las gráficas de los sensores a la que la web está suscrito, en un sólo interfaz de gráficas. Los topics de las gráficas son: luz (topic sensores/luz), sonido (topic sensores/sonido), temperatura (topic sensores/temperatura), humedad (topic sensores/humedad) y distancia (topic sensores/distancia). Además debe tener un botón para guardado de datos en formato csv, y alguna animación que indique que está grabando datos.</cite></p>\n<p><cite>Para descargar la web haga clic con botón derecho sobre ella.</cite></p>\n<p><iframe width=\"100\" height=\"600\" style=\"width: 100%; height: 600px; border: 1px solid #ccc;\" src=\"{{context_path}}/content/resources/prueba_dash2.html\" data-mce-html=\"true\"></iframe></p>\n<p><cite><img src=\"{{context_path}}/content/resources/dashboard.png\" alt=\"\" title=\"dashboard\" width=\"800\" height=\"482\" /></cite></p>\n<p>Vídeo demostración del sistema funcionando a través de panel web:</p>\n<figure class=\"exe-figure exe-media position-center license-CC-BY-SA\" style=\"width: 800px;\"><iframe width=\"800\" height=\"600\" src=\"https://www.youtube.com/embed/MgywT_x_Bxs\" allowfullscreen=\"allowfullscreen\"></iframe>\n<figcaption class=\"figcaption\"><span class=\"author\">Pedro Ruiz</span>. <span class=\"title\"><em>Robot IoT (Cutebot)</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/?lang=es\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons BY-SA\">CC BY-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"20251204113734BYQMJD","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>También podemos realizar páginas webs en forma de paneles o dashborads para mandar topics y valores o para recibir topics y valores del robot. En concreto esta ha sido realizada a través de Claude usando el siguiente prompt.</p>\n<p style=\"text-align: justify;\"><em>Quiero hacer una página web que controle un robot a través de mqtt con un servidor con dirección wss://broker.hivemq.com/mqtt con puerto 8884, y sin usuario. En la web debe aparecer cuatro botones para publicar topics de movimiento del robot: botón adelante con topic movimiento valor adelante, botón atras con topic movimiento valor atras, botón derecha con topic movimiento valor derecha, botón izquierda con topic movimiento valor izquierda. Además deben representarse en tiempo real las gráficas de los sensores a la que la web está suscrito, en un sólo interfaz de gráficas. Los topics de las gráficas son: luz (topic sensores/luz), sonido (topic sensores/sonido), temperatura (topic sensores/temperatura), humedad (topic sensores/humedad) y distancia (topic sensores/distancia). Además debe tener un botón para guardado de datos en formato csv, y alguna animación que indique que está grabando datos.</em></p>\n<p><cite><img src=\"{{context_path}}/content/resources/dashboard.png\" alt=\"dashboard\" title=\"dashboard\" width=\"1000\" height=\"690\" /></cite></p>\n<p><a href=\"{{context_path}}/content/resources/robot_control_claude.html\" target=\"_blank\" title=\"\" rel=\"noopener\">Descarga de panel en formato html</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>1</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -2733,10 +3165,10 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mopw0hd3-ibhryen0b</odePageId>
-      <odeBlockId>20251124174722FLFOUM</odeBlockId>
+      <odePageId>page-mpyauhap-yfa03ycru</odePageId>
+      <odeBlockId>20251219163328QISGZB</odeBlockId>
       <blockName>Paneles de control en python</blockName>
-      <iconName>description</iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>3</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -2762,9 +3194,9 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mopw0hd3-ibhryen0b</odePageId>
-          <odeBlockId>20251124174722FLFOUM</odeBlockId>
-          <odeIdeviceId>20251121152103QFHPJA</odeIdeviceId>
+          <odePageId>page-mpyauhap-yfa03ycru</odePageId>
+          <odeBlockId>20251219163328QISGZB</odeBlockId>
+          <odeIdeviceId>20251204113734CHEDKC</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<p>Con la ayuda de la IA, en concreto chat-GPT junto con el editor de python thonny se ha realizado el siguiente panel, que consta de dos ventanas una con el control de movimiento del robot y el guardado de datos de los sensores, y la segunda con el graficado de los datos de los sensores en tiempo real.</p>
 <table style="width: 63.0236%;" border="0">
@@ -2775,10 +3207,10 @@
 </tr>
 </tbody>
 </table>
-<p>Para conseguir este panel debemos abrir el fichero del programa en python (.py) y abrirlo en el editor de python <a href="https://thonny.org/" target="_blank" rel="noopener">Thonny</a>, una vez abierto el fichero en Thonny debemos cambiar la ip del broker (servidor), instalar las librerías paho-mqtt y matplotlib, y ejecutar el programa.</p>
+<p>Para conseguir este panel debemos abrir el fichero del programa en python (.py) y abrirlo en el editor de python <a href="https://thonny.org/" target="_blank" rel="noopener">Thonny</a>, una vez abierto el fichero en Thonny debemos instalar las librerías paho-mqtt y matplotlib y ejecutar el programa.</p>
 <p><img src="{{context_path}}/content/resources/20251204113734CHEDKC/dashboard_python.gif" alt="dashboardpython" title="dashboardpython" width="800" height="450" /></p>
 <p></p>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"20251121152103QFHPJA","textInfoDurationInput":"","textInfoParticipantsInput":"","textInfoDurationTextInput":"","textInfoParticipantsTextInput":"","textTextarea":"<p>Con la ayuda de la IA, en concreto chat-GPT junto con el editor de python thonny se ha realizado el siguiente panel, que consta de dos ventanas una con el control de movimiento del robot y el guardado de datos de los sensores, y la segunda con el graficado de los datos de los sensores en tiempo real.</p>\n<table style=\"width: 63.0236%;\" border=\"0\">\n<tbody>\n<tr>\n<td style=\"width: 22.1204%;\"><img src=\"{{context_path}}/content/resources/20251204113734CHEDKC/dashboard01.png\" alt=\"dashboard01\" title=\"dashboard01\" width=\"299\" height=\"167\" /></td>\n<td style=\"width: 40.9032%;\"><img src=\"{{context_path}}/content/resources/20251204113734CHEDKC/dashboard02.png\" alt=\"dashboard02\" title=\"dashboard02\" width=\"601\" height=\"493\" /></td>\n</tr>\n</tbody>\n</table>\n<p>Para conseguir este panel debemos abrir el fichero del programa en python (.py) y abrirlo en el editor de python <a href=\"https://thonny.org/\" target=\"_blank\" rel=\"noopener\">Thonny</a>, una vez abierto el fichero en Thonny debemos cambiar la ip del broker (servidor), instalar las librerías paho-mqtt y matplotlib, y ejecutar el programa.</p>\n<p><img src=\"{{context_path}}/content/resources/20251204113734CHEDKC/dashboard_python.gif\" alt=\"dashboardpython\" title=\"dashboardpython\" width=\"800\" height=\"450\" /></p>\n<p></p>","textFeedbackInput":"","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"20251204113734CHEDKC","textInfoDurationInput":"","textInfoParticipantsInput":"","textInfoDurationTextInput":"","textInfoParticipantsTextInput":"","textTextarea":"<p>Con la ayuda de la IA, en concreto chat-GPT junto con el editor de python thonny se ha realizado el siguiente panel, que consta de dos ventanas una con el control de movimiento del robot y el guardado de datos de los sensores, y la segunda con el graficado de los datos de los sensores en tiempo real.</p>\n<table style=\"width: 63.0236%;\" border=\"0\">\n<tbody>\n<tr>\n<td style=\"width: 22.1204%;\"><img src=\"{{context_path}}/content/resources/20251204113734CHEDKC/dashboard01.png\" alt=\"dashboard01\" title=\"dashboard01\" width=\"299\" height=\"167\" /></td>\n<td style=\"width: 40.9032%;\"><img src=\"{{context_path}}/content/resources/20251204113734CHEDKC/dashboard02.png\" alt=\"dashboard02\" title=\"dashboard02\" width=\"601\" height=\"493\" /></td>\n</tr>\n</tbody>\n</table>\n<p>Para conseguir este panel debemos abrir el fichero del programa en python (.py) y abrirlo en el editor de python <a href=\"https://thonny.org/\" target=\"_blank\" rel=\"noopener\">Thonny</a>, una vez abierto el fichero en Thonny debemos instalar las librerías paho-mqtt y matplotlib y ejecutar el programa.</p>\n<p><img src=\"{{context_path}}/content/resources/20251204113734CHEDKC/dashboard_python.gif\" alt=\"dashboardpython\" title=\"dashboardpython\" width=\"800\" height=\"450\" /></p>\n<p></p>","textFeedbackInput":"","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>1</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -2798,10 +3230,10 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mopw0hd3-ibhryen0b</odePageId>
-      <odeBlockId>20251124174722PZFXSE</odeBlockId>
+      <odePageId>page-mpyauhap-yfa03ycru</odePageId>
+      <odeBlockId>20251219163328LNWGRW</odeBlockId>
       <blockName>Programa python</blockName>
-      <iconName>description</iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>4</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -2827,12 +3259,12 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mopw0hd3-ibhryen0b</odePageId>
-          <odeBlockId>20251124174722PZFXSE</odeBlockId>
-          <odeIdeviceId>20251121152103AHBLIG</odeIdeviceId>
+          <odePageId>page-mpyauhap-yfa03ycru</odePageId>
+          <odeBlockId>20251219163328LNWGRW</odeBlockId>
+          <odeIdeviceId>20251204113734TTTVDQ</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<p><a href="{{context_path}}/content/resources/20251204113734TTTVDQ/dashboard05_distancia.py" target="_blank">dashboard05_distancia.py</a></p>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"20251121152103AHBLIG","textInfoDurationInput":"","textInfoParticipantsInput":"","textInfoDurationTextInput":"Duration:","textInfoParticipantsTextInput":"Grouping:","textTextarea":"<p><a href=\"files/tmp/2025/11/21/20251121152103YZVNQS/20251121152103AHBLIG/dashboard05_distancia.py\" target=\"_blank\">dashboard05_distancia.py</a></p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"20251204113734TTTVDQ","textInfoDurationInput":"","textInfoParticipantsInput":"","textInfoDurationTextInput":"Duration:","textInfoParticipantsTextInput":"Grouping:","textTextarea":"<p><a href=\"files/tmp/2025/12/04/20251204113733LTJFKZ/20251204113734TTTVDQ/dashboard05_distancia.py\" target=\"_blank\">dashboard05_distancia.py</a></p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>1</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -2854,14 +3286,14 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mopw0hd6-h0pil906c</odePageId>
-  <odeParentPageId>page-mopw0hcv-vk86w13kn</odeParentPageId>
-  <pageName>Servidor Web</pageName>
+  <odePageId>page-mpyauhar-k3s426qt8</odePageId>
+  <odeParentPageId>page-mpyauhai-1c7wz8bob</odeParentPageId>
+  <pageName>Control wifi</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
-      <value>Servidor Web</value>
+      <value>Control wifi</value>
     </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>visibility</key>
@@ -2881,7 +3313,7 @@
     </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>titlePage</key>
-      <value>Servidor Web</value>
+      <value>Control wifi</value>
     </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>titleNode</key>
@@ -2890,11 +3322,11 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mopw0hd6-h0pil906c</odePageId>
-      <odeBlockId>20251124174722ESFLKA</odeBlockId>
+      <odePageId>page-mpyauhar-k3s426qt8</odePageId>
+      <odeBlockId>20251219163328NTLLUZ</odeBlockId>
       <blockName></blockName>
-      <iconName>description</iconName>
-      <odePagStructureOrder>59</odePagStructureOrder>
+      <iconName>book</iconName>
+      <odePagStructureOrder>232</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
           <key>visibility</key>
@@ -2919,12 +3351,12 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mopw0hd6-h0pil906c</odePageId>
-          <odeBlockId>20251124174722ESFLKA</odeBlockId>
-          <odeIdeviceId>20251121152103FJPXYJ</odeIdeviceId>
+          <odePageId>page-mpyauhar-k3s426qt8</odePageId>
+          <odeBlockId>20251219163328NTLLUZ</odeBlockId>
+          <odeIdeviceId>20251204113734DGASQJ</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<p>Realiza un servidor web en la placa microSTEAMakers que atiende a peticiones get realizadas por una página web a modo de panel de control. Se puede realizar en modo local (intranet) dónde las peticiones get se realizan a la ip local de la placa, o bién desde cualquier lugar (internet), redireccionando el puerto 80 del router a la ip local de la placa. En este caso las peticiones get se harían a la ip pública del router.</p>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"20251121152103FJPXYJ","textInfoDurationInput":"","textInfoParticipantsInput":"","textInfoDurationTextInput":"","textInfoParticipantsTextInput":"","textTextarea":"<p>Realiza un servidor web en la placa microSTEAMakers que atiende a peticiones get realizadas por una página web a modo de panel de control. Se puede realizar en modo local (intranet) dónde las peticiones get se realizan a la ip local de la placa, o bién desde cualquier lugar (internet), redireccionando el puerto 80 del router a la ip local de la placa. En este caso las peticiones get se harían a la ip pública del router.</p>","textFeedbackInput":"","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"20251204113734DGASQJ","textInfoDurationInput":"","textInfoParticipantsInput":"","textInfoDurationTextInput":"","textInfoParticipantsTextInput":"","textTextarea":"<p>Realiza un servidor web en la placa microSTEAMakers que atiende a peticiones get realizadas por una página web a modo de panel de control. Se puede realizar en modo local (intranet) dónde las peticiones get se realizan a la ip local de la placa, o bién desde cualquier lugar (internet), redireccionando el puerto 80 del router a la ip local de la placa. En este caso las peticiones get se harían a la ip pública del router.</p>","textFeedbackInput":"","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>1</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -2944,11 +3376,11 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mopw0hd6-h0pil906c</odePageId>
-      <odeBlockId>20251124174722GWAALM</odeBlockId>
+      <odePageId>page-mpyauhar-k3s426qt8</odePageId>
+      <odeBlockId>20251219163328AHJTOX</odeBlockId>
       <blockName>Aplicación para la placa</blockName>
-      <iconName>description</iconName>
-      <odePagStructureOrder>62</odePagStructureOrder>
+      <iconName>book</iconName>
+      <odePagStructureOrder>235</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
           <key>visibility</key>
@@ -2973,13 +3405,13 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mopw0hd6-h0pil906c</odePageId>
-          <odeBlockId>20251124174722GWAALM</odeBlockId>
-          <odeIdeviceId>20251121152103OZJMDU</odeIdeviceId>
+          <odePageId>page-mpyauhar-k3s426qt8</odePageId>
+          <odeBlockId>20251219163328AHJTOX</odeBlockId>
+          <odeIdeviceId>20251204113734RXYCYS</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
-          <htmlView><![CDATA[<p>Atiende a diferentes peticiones get, en función de las mismas se mueve o emite datos de sensores. Habrá que redireccionar el puerto 80 del router a la ip local de la placa que hace de servidor web.</p>
-<p><img src="{{context_path}}/content/resources/20251121152103OZJMDU/programa_web_editado.png" alt="programa web" title="programa web" width="799" height="648" /></p>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"20251121152103OZJMDU","textInfoDurationInput":"","textInfoParticipantsInput":"","textInfoDurationTextInput":"","textInfoParticipantsTextInput":"","textTextarea":"<p>Atiende a diferentes peticiones get, en función de las mismas se mueve o emite datos de sensores. Habrá que redireccionar el puerto 80 del router a la ip local de la placa que hace de servidor web.</p>\n<p><img src=\"{{context_path}}/content/resources/20251121152103OZJMDU/programa_web_editado.png\" alt=\"programa web\" title=\"programa web\" width=\"799\" height=\"648\" /></p>","textFeedbackInput":"","textFeedbackTextarea":""}]]></jsonProperties>
+          <htmlView><![CDATA[<p>Atiende a diferentes peticiones get, en fucnión de las mismas se mueve o emite datos de sensores.</p>
+<p><img src="{{context_path}}/content/resources/20251204113734RXYCYS/programa_web.png" alt="programa web" title="programa web" width="799" height="648" /></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20251204113734RXYCYS","textInfoDurationInput":"","textInfoParticipantsInput":"","textInfoDurationTextInput":"","textInfoParticipantsTextInput":"","textTextarea":"<p>Atiende a diferentes peticiones get, en fucnión de las mismas se mueve o emite datos de sensores.</p>\n<p><img src=\"{{context_path}}/content/resources/20251204113734RXYCYS/programa_web.png\" alt=\"programa web\" title=\"programa web\" width=\"799\" height=\"648\" /></p>","textFeedbackInput":"","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>1</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -2999,11 +3431,11 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mopw0hd6-h0pil906c</odePageId>
-      <odeBlockId>20251124174722WXZKCU</odeBlockId>
+      <odePageId>page-mpyauhar-k3s426qt8</odePageId>
+      <odeBlockId>20251219163328WRKJWK</odeBlockId>
       <blockName>Programa de la placa</blockName>
-      <iconName>description</iconName>
-      <odePagStructureOrder>65</odePagStructureOrder>
+      <iconName>book</iconName>
+      <odePagStructureOrder>238</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
           <key>visibility</key>
@@ -3028,12 +3460,12 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mopw0hd6-h0pil906c</odePageId>
-          <odeBlockId>20251124174722WXZKCU</odeBlockId>
-          <odeIdeviceId>20251121152103CXCLGD</odeIdeviceId>
+          <odePageId>page-mpyauhar-k3s426qt8</odePageId>
+          <odeBlockId>20251219163328WRKJWK</odeBlockId>
+          <odeIdeviceId>20251204113734UUSUHZ</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<p><a href="{{context_path}}/content/resources/20251204113734UUSUHZ/control_wifi2.ubp" target="_blank">control_wifi2.ubp</a></p>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"20251121152103CXCLGD","textInfoDurationInput":"","textInfoParticipantsInput":"","textInfoDurationTextInput":"Duration:","textInfoParticipantsTextInput":"Grouping:","textTextarea":"<p><a href=\"files/tmp/2025/11/21/20251121152103YZVNQS/20251121152103CXCLGD/control_wifi2.ubp\" target=\"_blank\">control_wifi2.ubp</a></p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"20251204113734UUSUHZ","textInfoDurationInput":"","textInfoParticipantsInput":"","textInfoDurationTextInput":"Duration:","textInfoParticipantsTextInput":"Grouping:","textTextarea":"<p><a href=\"files/tmp/2025/12/04/20251204113733LTJFKZ/20251204113734UUSUHZ/control_wifi2.ubp\" target=\"_blank\">control_wifi2.ubp</a></p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>1</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -3053,11 +3485,11 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mopw0hd6-h0pil906c</odePageId>
-      <odeBlockId>20251124174722VDZFWR</odeBlockId>
+      <odePageId>page-mpyauhar-k3s426qt8</odePageId>
+      <odeBlockId>20251219163328HNATXX</odeBlockId>
       <blockName>Página web de control o panel (dashboard)</blockName>
-      <iconName>description</iconName>
-      <odePagStructureOrder>69</odePagStructureOrder>
+      <iconName>book</iconName>
+      <odePagStructureOrder>242</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
           <key>visibility</key>
@@ -3082,13 +3514,13 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mopw0hd6-h0pil906c</odePageId>
-          <odeBlockId>20251124174722VDZFWR</odeBlockId>
-          <odeIdeviceId>20251121152103CFOQOH</odeIdeviceId>
+          <odePageId>page-mpyauhar-k3s426qt8</odePageId>
+          <odeBlockId>20251219163328HNATXX</odeBlockId>
+          <odeIdeviceId>20251204113734WUFDBC</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<p>Se trata de una web realizada con ayuda de chat GPT a modo de panel de control del robot, se lanzarán peticiones get para moverlo y para pedirle datos de sensores para ser representados o guardados a través de la web. Hay que modificar en la página web la ip en las peticiones por la ip local de la placa o bien la ip pública del router si se ha redirigido el puerto 80 del router a la ip local de la placa.</p>
 <p><img src="{{context_path}}/content/resources/20251204113734WUFDBC/web_de_control_web.png" alt="web de control" title="web de control" width="589" height="932" /></p>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"20251121152103CFOQOH","textInfoDurationInput":"","textInfoParticipantsInput":"","textInfoDurationTextInput":"","textInfoParticipantsTextInput":"","textTextarea":"<p>Se trata de una web realizada con ayuda de chat GPT a modo de panel de control del robot, se lanzarán peticiones get para moverlo y para pedirle datos de sensores para ser representados o guardados a través de la web. Hay que modificar en la página web la ip en las peticiones por la ip local de la placa o bien la ip pública del router si se ha redirigido el puerto 80 del router a la ip local de la placa.</p>\n<p><img src=\"{{context_path}}/content/resources/20251204113734WUFDBC/web_de_control_web.png\" alt=\"web de control\" title=\"web de control\" width=\"589\" height=\"932\" /></p>","textFeedbackInput":"","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"20251204113734WUFDBC","textInfoDurationInput":"","textInfoParticipantsInput":"","textInfoDurationTextInput":"","textInfoParticipantsTextInput":"","textTextarea":"<p>Se trata de una web realizada con ayuda de chat GPT a modo de panel de control del robot, se lanzarán peticiones get para moverlo y para pedirle datos de sensores para ser representados o guardados a través de la web. Hay que modificar en la página web la ip en las peticiones por la ip local de la placa o bien la ip pública del router si se ha redirigido el puerto 80 del router a la ip local de la placa.</p>\n<p><img src=\"{{context_path}}/content/resources/20251204113734WUFDBC/web_de_control_web.png\" alt=\"web de control\" title=\"web de control\" width=\"589\" height=\"932\" /></p>","textFeedbackInput":"","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>1</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -3108,11 +3540,11 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mopw0hd6-h0pil906c</odePageId>
-      <odeBlockId>20251124174722CTSAWI</odeBlockId>
+      <odePageId>page-mpyauhar-k3s426qt8</odePageId>
+      <odeBlockId>20251219163328YDPDQK</odeBlockId>
       <blockName>web de control</blockName>
-      <iconName>description</iconName>
-      <odePagStructureOrder>72</odePagStructureOrder>
+      <iconName>book</iconName>
+      <odePagStructureOrder>245</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
           <key>visibility</key>
@@ -3137,12 +3569,12 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mopw0hd6-h0pil906c</odePageId>
-          <odeBlockId>20251124174722CTSAWI</odeBlockId>
-          <odeIdeviceId>20251121152103PKGQGG</odeIdeviceId>
+          <odePageId>page-mpyauhar-k3s426qt8</odePageId>
+          <odeBlockId>20251219163328YDPDQK</odeBlockId>
+          <odeIdeviceId>20251204113734AEVLWL</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<p><a href="{{context_path}}/content/resources/20251204113734AEVLWL/cutebot13.html" target="_blank">cutebot13.html</a></p>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"20251121152103PKGQGG","textInfoDurationInput":"","textInfoParticipantsInput":"","textInfoDurationTextInput":"Duration:","textInfoParticipantsTextInput":"Grouping:","textTextarea":"<p><a href=\"files/tmp/2025/11/21/20251121152103YZVNQS/20251121152103PKGQGG/cutebot13.html\" target=\"_blank\">cutebot13.html</a></p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"20251204113734AEVLWL","textInfoDurationInput":"","textInfoParticipantsInput":"","textInfoDurationTextInput":"Duration:","textInfoParticipantsTextInput":"Grouping:","textTextarea":"<p><a href=\"files/tmp/2025/12/04/20251204113733LTJFKZ/20251204113734AEVLWL/cutebot13.html\" target=\"_blank\">cutebot13.html</a></p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>1</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -3164,7 +3596,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mopw0hd8-6acfffpic</odePageId>
+  <odePageId>page-mpyauhat-v57uv2c3t</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>ACTIVIDADES EN EL AULA</pageName>
   <odeNavStructureOrder>4</odeNavStructureOrder>
@@ -3200,10 +3632,10 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mopw0hd8-6acfffpic</odePageId>
+      <odePageId>page-mpyauhat-v57uv2c3t</odePageId>
       <odeBlockId>20251219163328DCQKES</odeBlockId>
       <blockName>Actividades en el Aula</blockName>
-      <iconName></iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>249</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -3229,7 +3661,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mopw0hd8-6acfffpic</odePageId>
+          <odePageId>page-mpyauhat-v57uv2c3t</odePageId>
           <odeBlockId>20251219163328DCQKES</odeBlockId>
           <odeIdeviceId>20251204113734MIWCYG</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -3269,7 +3701,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mopw0hda-6qyu9g9as</odePageId>
+  <odePageId>page-mpyauhau-ssgbini2s</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>EVALUACIÓN DEL PROYECTO</pageName>
   <odeNavStructureOrder>5</odeNavStructureOrder>
@@ -3305,10 +3737,10 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mopw0hda-6qyu9g9as</odePageId>
+      <odePageId>page-mpyauhau-ssgbini2s</odePageId>
       <odeBlockId>20251219163328FECDPS</odeBlockId>
       <blockName>Evaluación del Proyecto</blockName>
-      <iconName></iconName>
+      <iconName>book</iconName>
       <odePagStructureOrder>252</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -3334,7 +3766,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mopw0hda-6qyu9g9as</odePageId>
+          <odePageId>page-mpyauhau-ssgbini2s</odePageId>
           <odeBlockId>20251219163328FECDPS</odeBlockId>
           <odeIdeviceId>20251204113734RSXJIP</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -3367,7 +3799,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mopw0hdb-bdmk86nwj</odePageId>
+  <odePageId>page-mpyauhaw-0gnhcuday</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>CRÉDITOS</pageName>
   <odeNavStructureOrder>6</odeNavStructureOrder>
@@ -3403,10 +3835,10 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mopw0hdb-bdmk86nwj</odePageId>
+      <odePageId>page-mpyauhaw-0gnhcuday</odePageId>
       <odeBlockId>20251219163328PQMYCW</odeBlockId>
       <blockName>CRÉDITOS</blockName>
-      <iconName></iconName>
+      <iconName>collaborative</iconName>
       <odePagStructureOrder>255</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -3432,7 +3864,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mopw0hdb-bdmk86nwj</odePageId>
+          <odePageId>page-mpyauhaw-0gnhcuday</odePageId>
           <odeBlockId>20251219163328PQMYCW</odeBlockId>
           <odeIdeviceId>20251204113734KEGFQU</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
